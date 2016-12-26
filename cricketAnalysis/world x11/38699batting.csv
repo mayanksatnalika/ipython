@@ -1,0 +1,163 @@
+,balls,date,fours,oppo,runs,sixes,srate,venue
+0,10,1 Mar 2006,2,v West Indies,15,0,150.00,Napier
+1,29,4 Mar 2006,7,v West Indies,31,0,106.89,Auckland
+2,133,28 Dec 2006,12,v Sri Lanka,128,4,96.24,Napier
+3,26,31 Dec 2006,2,v Sri Lanka,15,0,57.69,Queenstown
+4,4,2 Jan 2007,0,v Sri Lanka,0,0,0.00,Christchurch
+5,7,6 Jan 2007,0,v Sri Lanka,0,0,0.00,Auckland
+6,82,14 Jan 2007,10,v Australia,84,3,102.43,Hobart
+7,7,16 Jan 2007,0,v England,1,0,14.28,Hobart
+8,43,21 Jan 2007,5,v Australia,26,0,60.46,Sydney
+9,44,23 Jan 2007,1,v England,15,0,34.09,Adelaide
+10,50,28 Jan 2007,2,v Australia,39,0,78.00,Perth
+11,81,30 Jan 2007,7,v England,71,1,87.65,Perth
+12,31,4 Feb 2007,1,v Australia,21,0,67.74,Melbourne
+13,27,6 Feb 2007,1,v England,25,0,92.59,Brisbane
+14,127,18 Feb 2007,16,v Australia,117,1,92.12,Auckland
+15,12,20 Feb 2007,1,v Australia,11,0,91.66,Hamilton
+16,1,16 Mar 2007,0,v England,0,0,0.00,Gros Islet
+17,107,20 Mar 2007,8,v Kenya,85,1,79.43,Gros Islet
+18,2,12 Apr 2007,0,v Sri Lanka,0,0,0.00,St George's
+19,17,14 Apr 2007,1,v South Africa,10,0,58.82,St George's
+20,6,20 Apr 2007,0,v Australia,3,0,50.00,St George's
+21,25,24 Apr 2007,1,v Sri Lanka,9,0,36.00,Kingston
+22,22,25 Nov 2007,1,v South Africa,20,1,90.90,Durban
+23,10,30 Nov 2007,2,v South Africa,13,0,130.00,Port Elizabeth
+24,10,2 Dec 2007,0,v South Africa,3,0,30.00,Cape Town
+25,52,14 Dec 2007,1,v Australia,50,3,96.15,Adelaide
+26,8,16 Dec 2007,0,v Australia,5,0,62.50,Sydney
+27,19,20 Dec 2007,1,v Australia,13,0,68.42,Hobart
+28,8,26 Dec 2007,0,v Bangladesh,8,1,100.00,Auckland
+29,24,28 Dec 2007,2,v Bangladesh,34,1,141.66,Napier
+30,39,9 Feb 2008,2,v England,24,1,61.53,Wellington
+31,49,15 Feb 2008,1,v England,31,1,63.26,Auckland
+32,47,20 Feb 2008,4,v England,48,1,102.12,Napier
+33,52,23 Feb 2008,7,v England,41,0,78.84,Christchurch
+34,34,15 Jun 2008,1,v England,20,0,58.82,Chester-le-Street
+35,21,18 Jun 2008,5,v England,25,0,119.04,Birmingham
+36,30,21 Jun 2008,0,v England,8,0,26.66,Bristol
+37,15,25 Jun 2008,1,v England,6,0,40.00,The Oval
+38,15,28 Jun 2008,0,v England,4,0,26.66,Lord's
+39,24,1 Jul 2008,5,v Ireland,59,4,245.83,Aberdeen
+40,41,3 Jul 2008,8,v Scotland,61,2,148.78,Aberdeen
+41,4,9 Oct 2008,0,v Bangladesh,2,0,50.00,Dhaka
+42,54,11 Oct 2008,2,v Bangladesh,33,2,61.11,Dhaka
+43,119,14 Oct 2008,5,v Bangladesh,103,4,86.55,Chittagong
+44,20,3 Jan 2009,0,v West Indies,13,0,65.00,Christchurch
+45,50,7 Jan 2009,5,v West Indies,51,3,102.00,Wellington
+46,87,10 Jan 2009,6,v West Indies,75,1,86.20,Auckland
+47,71,13 Jan 2009,3,v West Indies,48,0,67.60,Napier
+48,97,1 Feb 2009,6,v Australia,64,1,65.97,Perth
+49,74,6 Feb 2009,3,v Australia,47,0,63.51,Melbourne
+50,2,8 Feb 2009,1,v Australia,4,0,200.00,Sydney
+51,71,10 Feb 2009,6,v Australia,76,2,107.04,Adelaide
+52,3,13 Feb 2009,1,v Australia,4,0,133.33,Brisbane
+53,24,3 Mar 2009,3,v India,31,0,129.16,Napier
+54,6,8 Mar 2009,1,v India,7,0,116.66,Christchurch
+55,13,11 Mar 2009,0,v India,5,0,38.46,Hamilton
+56,33,14 Mar 2009,4,v India,28,1,84.84,Auckland
+57,4,8 Sep 2009,0,v Sri Lanka,2,0,50.00,Colombo (RPS)
+58,15,11 Sep 2009,2,v India,11,0,73.33,Colombo (RPS)
+59,106,24 Sep 2009,6,v South Africa,72,2,67.92,Centurion
+60,2,27 Sep 2009,1,v Sri Lanka,4,0,200.00,Johannesburg
+61,3,29 Sep 2009,0,v England,1,0,33.33,Johannesburg
+62,61,3 Oct 2009,1,v Pakistan,38,2,62.29,Johannesburg
+63,13,5 Oct 2009,0,v Australia,6,0,46.15,Centurion
+64,5,3 Nov 2009,0,v Pakistan,0,0,0.00,Abu Dhabi
+65,2,6 Nov 2009,0,v Pakistan,0,0,0.00,Abu Dhabi
+66,69,9 Nov 2009,0,v Pakistan,44,1,63.76,Abu Dhabi
+67,52,5 Feb 2010,4,v Bangladesh,51,2,98.07,Napier
+68,52,8 Feb 2010,6,v Bangladesh,78,5,150.00,Dunedin
+69,10,11 Feb 2010,0,v Bangladesh,3,0,30.00,Christchurch
+70,71,3 Mar 2010,6,v Australia,70,1,98.59,Napier
+71,66,9 Mar 2010,4,v Australia,62,2,93.93,Hamilton
+72,37,11 Mar 2010,1,v Australia,15,0,40.54,Auckland
+73,55,13 Mar 2010,3,v Australia,30,0,54.54,Wellington
+74,113,10 Aug 2010,8,v India,95,1,84.07,Dambulla
+75,34,13 Aug 2010,2,v Sri Lanka,16,0,47.05,Dambulla
+76,14,25 Aug 2010,2,v India,8,0,57.14,Dambulla
+77,56,5 Oct 2010,1,v Bangladesh,42,1,75.00,Dhaka
+78,72,11 Oct 2010,3,v Bangladesh,62,4,86.11,Dhaka
+79,3,14 Oct 2010,0,v Bangladesh,3,0,100.00,Dhaka
+80,9,17 Oct 2010,0,v Bangladesh,3,0,33.33,Dhaka
+81,69,28 Nov 2010,3,v India,66,3,95.65,Guwahati
+82,23,1 Dec 2010,0,v India,15,1,65.21,Jaipur
+83,16,4 Dec 2010,0,v India,4,0,25.00,Vadodara
+84,73,7 Dec 2010,3,v India,44,0,60.27,Bangalore
+85,9,10 Dec 2010,2,v India,9,0,100.00,Chennai
+86,29,22 Jan 2011,2,v Pakistan,23,1,79.31,Wellington
+87,14,29 Jan 2011,0,v Pakistan,6,0,42.85,Christchurch
+88,5,1 Feb 2011,1,v Pakistan,4,0,80.00,Napier
+89,91,3 Feb 2011,4,v Pakistan,69,1,75.82,Hamilton
+90,10,5 Feb 2011,0,v Pakistan,5,0,50.00,Auckland
+91,22,25 Feb 2011,1,v Australia,7,0,31.81,Nagpur
+92,124,8 Mar 2011,8,v Pakistan,131,7,105.64,Pallekele
+93,44,13 Mar 2011,6,v Canada,74,5,168.18,Mumbai
+94,55,18 Mar 2011,3,v Sri Lanka,33,1,60.00,Mumbai
+95,72,25 Mar 2011,1,v South Africa,43,1,59.72,Dhaka
+96,55,29 Mar 2011,1,v Sri Lanka,36,0,65.45,Colombo (RPS)
+97,15,22 Oct 2011,1,v Zimbabwe,11,0,73.33,Harare
+98,126,25 Oct 2011,9,v Zimbabwe,119,3,94.44,Bulawayo
+99,115,14 Jul 2012,6,v West Indies,110,5,95.65,Basseterre
+100,38,16 Jul 2012,3,v West Indies,28,0,73.68,Basseterre
+101,62,4 Nov 2012,7,v Sri Lanka,72,2,116.12,Pallekele
+102,16,6 Nov 2012,1,v Sri Lanka,7,0,43.75,Pallekele
+103,17,10 Nov 2012,0,v Sri Lanka,6,0,35.29,Hambantota
+104,38,17 Feb 2013,3,v England,22,0,57.89,Hamilton
+105,117,20 Feb 2013,9,v England,100,1,85.47,Napier
+106,52,23 Feb 2013,2,v England,28,0,53.84,Auckland
+107,77,31 May 2013,9,v England,54,0,70.12,Lord's
+108,54,2 Jun 2013,3,v England,60,2,111.11,Southampton
+109,84,5 Jun 2013,2,v England,71,3,84.52,Nottingham
+110,4,9 Jun 2013,0,v Sri Lanka,0,0,0.00,Cardiff
+111,23,12 Jun 2013,0,v Australia,9,0,39.13,Birmingham
+112,6,16 Jun 2013,0,v England,3,0,50.00,Cardiff
+113,14,29 Oct 2013,2,v Bangladesh,8,0,57.14,Dhaka
+114,82,31 Oct 2013,2,v Bangladesh,45,1,54.87,Dhaka
+115,93,3 Nov 2013,9,v Bangladesh,107,3,115.05,Fatullah
+116,10,26 Dec 2013,0,v West Indies,3,0,30.00,Auckland
+117,8,1 Jan 2014,1,v West Indies,9,0,112.50,Queenstown
+118,44,4 Jan 2014,5,v West Indies,49,0,111.36,Nelson
+119,15,8 Jan 2014,0,v West Indies,9,0,60.00,Hamilton
+120,82,19 Jan 2014,1,v India,55,0,67.07,Napier
+121,56,22 Jan 2014,7,v India,57,0,101.78,Hamilton
+122,18,25 Jan 2014,2,v India,17,0,94.44,Auckland
+123,127,28 Jan 2014,15,v India,112,0,88.18,Hamilton
+124,106,31 Jan 2014,10,v India,102,1,96.22,Wellington
+125,135,8 Dec 2014,9,v Pakistan,105,1,77.77,Dubai (DSC)
+126,3,12 Dec 2014,0,v Pakistan,2,0,66.66,Sharjah
+127,25,14 Dec 2014,1,v Pakistan,31,3,124.00,Sharjah
+128,37,17 Dec 2014,2,v Pakistan,26,0,70.27,Abu Dhabi
+129,95,19 Dec 2014,5,v Pakistan,88,1,92.63,Abu Dhabi
+130,69,15 Jan 2015,2,v Sri Lanka,34,0,49.27,Hamilton
+131,8,17 Jan 2015,0,v Sri Lanka,3,0,37.50,Auckland
+132,23,20 Jan 2015,0,v Sri Lanka,8,0,34.78,Nelson
+133,23,23 Jan 2015,3,v Sri Lanka,20,0,86.95,Dunedin
+134,102,25 Jan 2015,7,v Sri Lanka,96,2,94.11,Dunedin
+135,22,29 Jan 2015,1,v Sri Lanka,11,0,50.00,Wellington
+136,81,31 Jan 2015,4,v Pakistan,59,0,72.83,Wellington
+137,70,3 Feb 2015,13,v Pakistan,102,2,145.71,Napier
+138,28,14 Feb 2015,0,v Sri Lanka,14,0,50.00,Christchurch
+139,14,17 Feb 2015,1,v Scotland,9,0,64.28,Dunedin
+140,5,20 Feb 2015,1,v England,5,0,100.00,Wellington
+141,2,28 Feb 2015,0,v Australia,1,0,50.00,Auckland
+142,41,8 Mar 2015,2,v Afghanistan,24,0,58.53,Napier
+143,97,13 Mar 2015,5,v Bangladesh,56,0,57.73,Hamilton
+144,61,21 Mar 2015,2,v West Indies,42,0,68.85,Wellington
+145,39,24 Mar 2015,4,v South Africa,30,0,76.92,Auckland
+146,72,29 Mar 2015,2,v Australia,40,0,55.55,Melbourne
+147,54,9 Jun 2015,5,v England,57,1,105.55,Birmingham
+148,96,12 Jun 2015,10,v England,119,4,123.95,The Oval
+149,123,14 Jun 2015,12,v England,110,0,89.43,Southampton
+150,55,17 Jun 2015,3,v England,42,0,76.36,Nottingham
+151,63,20 Jun 2015,2,v England,47,0,74.60,Chester-le-Street
+152,122,2 Aug 2015,6,v Zimbabwe,112,3,91.80,Harare
+153,9,26 Dec 2015,0,v Sri Lanka,5,0,55.55,Christchurch
+154,2,31 Dec 2015,0,v Sri Lanka,0,0,0.00,Nelson
+155,14,2 Jan 2016,3,v Sri Lanka,20,0,142.85,Nelson
+156,67,5 Jan 2016,4,v Sri Lanka,61,1,91.04,Mount Maunganui
+157,1,16 Oct 2016,0,v India,0,0,0.00,Dharamsala
+158,42,20 Oct 2016,2,v India,21,0,50.00,Delhi
+159,57,23 Oct 2016,4,v India,44,1,77.19,Mohali
+160,58,26 Oct 2016,1,v India,35,0,60.34,Ranchi
+161,32,29 Oct 2016,1,v India,19,0,59.37,Visakhapatnam

@@ -1,0 +1,11 @@
+1. get player details - batting innings wise
+                                away from home
+                                home
+                                combined
+                        find averages
+                          compute ,oving averages
+                        Plot graphs
+                          pyPlot
+
+BeautifulSoup4
+Numpy

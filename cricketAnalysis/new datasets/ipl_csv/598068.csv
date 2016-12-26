@@ -1,0 +1,120 @@
+version,1
+info,team,Royal Challengers Bangalore
+info,team,Chennai Super Kings
+info,gender,male
+info,season,2013
+info,date,2013/05/18
+info,competition,Indian Premier League
+info,match_number,70
+info,venue,M Chinnaswamy Stadium
+info,city,Bangalore
+info,toss_winner,Chennai Super Kings
+info,toss_decision,field
+info,player_of_match,V Kohli
+info,umpire,C Shamshuddin
+info,umpire,RJ Tucker
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,S Das
+info,match_referee,AJ Pycroft
+info,winner,Royal Challengers Bangalore
+info,winner_runs,24
+ball,1,0.1,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,0,0,"",""
+ball,1,0.2,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,4,0,"",""
+ball,1,0.3,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,0,0,"",""
+ball,1,0.4,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,1,0,"",""
+ball,1,0.5,Royal Challengers Bangalore,CH Gayle,V Kohli,R Ashwin,0,0,"",""
+ball,1,0.6,Royal Challengers Bangalore,CH Gayle,V Kohli,R Ashwin,1,0,"",""
+ball,1,1.1,Royal Challengers Bangalore,CH Gayle,V Kohli,CH Morris,1,0,"",""
+ball,1,1.2,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,1,0,"",""
+ball,1,1.3,Royal Challengers Bangalore,CH Gayle,V Kohli,CH Morris,0,1,"",""
+ball,1,1.4,Royal Challengers Bangalore,CH Gayle,V Kohli,CH Morris,6,0,"",""
+ball,1,1.5,Royal Challengers Bangalore,CH Gayle,V Kohli,CH Morris,0,1,"",""
+ball,1,1.6,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,0,0,"",""
+ball,1,1.7,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,0,1,"",""
+ball,1,2.1,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,0,0,"",""
+ball,1,2.2,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,4,0,"",""
+ball,1,2.3,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,1,0,"",""
+ball,1,2.4,Royal Challengers Bangalore,CH Gayle,V Kohli,R Ashwin,0,1,"",""
+ball,1,2.5,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,4,0,"",""
+ball,1,2.6,Royal Challengers Bangalore,V Kohli,CH Gayle,R Ashwin,6,0,"",""
+ball,1,3.1,Royal Challengers Bangalore,CH Gayle,V Kohli,CH Morris,1,0,"",""
+ball,1,3.2,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,4,0,"",""
+ball,1,3.3,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,2,0,"",""
+ball,1,3.4,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,0,0,"",""
+ball,1,3.5,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,0,0,"",""
+ball,1,3.6,Royal Challengers Bangalore,V Kohli,CH Gayle,CH Morris,6,0,"",""
+ball,1,4.1,Royal Challengers Bangalore,CH Gayle,V Kohli,JO Holder,1,0,"",""
+ball,1,4.2,Royal Challengers Bangalore,V Kohli,CH Gayle,JO Holder,1,0,"",""
+ball,1,4.3,Royal Challengers Bangalore,CH Gayle,V Kohli,JO Holder,0,0,"",""
+ball,1,4.4,Royal Challengers Bangalore,CH Gayle,V Kohli,JO Holder,6,0,"",""
+ball,1,4.5,Royal Challengers Bangalore,CH Gayle,V Kohli,JO Holder,6,0,"",""
+ball,1,4.6,Royal Challengers Bangalore,CH Gayle,V Kohli,JO Holder,6,0,"",""
+ball,1,5.1,Royal Challengers Bangalore,V Kohli,CH Gayle,DJ Bravo,1,0,"",""
+ball,1,5.2,Royal Challengers Bangalore,CH Gayle,V Kohli,DJ Bravo,0,0,caught,CH Gayle
+ball,1,5.3,Royal Challengers Bangalore,AB de Villiers,V Kohli,DJ Bravo,4,0,"",""
+ball,1,5.4,Royal Challengers Bangalore,AB de Villiers,V Kohli,DJ Bravo,1,0,"",""
+ball,1,5.5,Royal Challengers Bangalore,V Kohli,AB de Villiers,DJ Bravo,4,0,"",""
+ball,1,5.6,Royal Challengers Bangalore,V Kohli,AB de Villiers,DJ Bravo,0,0,"",""
+ball,1,6.1,Royal Challengers Bangalore,AB de Villiers,V Kohli,MM Sharma,0,0,caught,AB de Villiers
+ball,1,6.2,Royal Challengers Bangalore,V Kohli,MC Henriques,MM Sharma,0,0,"",""
+ball,1,6.3,Royal Challengers Bangalore,V Kohli,MC Henriques,MM Sharma,1,0,"",""
+ball,1,6.4,Royal Challengers Bangalore,MC Henriques,V Kohli,MM Sharma,0,1,"",""
+ball,1,6.5,Royal Challengers Bangalore,MC Henriques,V Kohli,MM Sharma,4,0,"",""
+ball,1,6.6,Royal Challengers Bangalore,MC Henriques,V Kohli,MM Sharma,4,0,"",""
+ball,1,6.7,Royal Challengers Bangalore,MC Henriques,V Kohli,MM Sharma,4,0,"",""
+ball,1,7.1,Royal Challengers Bangalore,V Kohli,MC Henriques,DJ Bravo,0,0,"",""
+ball,1,7.2,Royal Challengers Bangalore,V Kohli,MC Henriques,DJ Bravo,0,0,"",""
+ball,1,7.3,Royal Challengers Bangalore,V Kohli,MC Henriques,DJ Bravo,6,0,"",""
+ball,1,7.4,Royal Challengers Bangalore,V Kohli,MC Henriques,DJ Bravo,0,0,"",""
+ball,1,7.5,Royal Challengers Bangalore,V Kohli,MC Henriques,DJ Bravo,6,0,"",""
+ball,1,7.6,Royal Challengers Bangalore,V Kohli,MC Henriques,DJ Bravo,4,0,"",""
+ball,2,0.1,Chennai Super Kings,MEK Hussey,M Vijay,R Rampaul,4,0,"",""
+ball,2,0.2,Chennai Super Kings,MEK Hussey,M Vijay,R Rampaul,1,0,"",""
+ball,2,0.3,Chennai Super Kings,M Vijay,MEK Hussey,R Rampaul,1,0,"",""
+ball,2,0.4,Chennai Super Kings,MEK Hussey,M Vijay,R Rampaul,0,0,"",""
+ball,2,0.5,Chennai Super Kings,MEK Hussey,M Vijay,R Rampaul,1,0,"",""
+ball,2,0.6,Chennai Super Kings,M Vijay,MEK Hussey,R Rampaul,1,0,"",""
+ball,2,1.1,Chennai Super Kings,M Vijay,MEK Hussey,Z Khan,2,0,"",""
+ball,2,1.2,Chennai Super Kings,M Vijay,MEK Hussey,Z Khan,1,0,"",""
+ball,2,1.3,Chennai Super Kings,MEK Hussey,M Vijay,Z Khan,0,0,caught,MEK Hussey
+ball,2,1.4,Chennai Super Kings,SK Raina,M Vijay,Z Khan,0,0,caught,SK Raina
+ball,2,1.5,Chennai Super Kings,M Vijay,DJ Bravo,Z Khan,0,0,"",""
+ball,2,1.6,Chennai Super Kings,M Vijay,DJ Bravo,Z Khan,0,0,"",""
+ball,2,2.1,Chennai Super Kings,DJ Bravo,M Vijay,JD Unadkat,0,0,"",""
+ball,2,2.2,Chennai Super Kings,DJ Bravo,M Vijay,JD Unadkat,0,1,"",""
+ball,2,2.3,Chennai Super Kings,DJ Bravo,M Vijay,JD Unadkat,0,0,"",""
+ball,2,2.4,Chennai Super Kings,DJ Bravo,M Vijay,JD Unadkat,1,0,"",""
+ball,2,2.5,Chennai Super Kings,M Vijay,DJ Bravo,JD Unadkat,1,0,"",""
+ball,2,2.6,Chennai Super Kings,DJ Bravo,M Vijay,JD Unadkat,1,0,"",""
+ball,2,2.7,Chennai Super Kings,M Vijay,DJ Bravo,JD Unadkat,4,0,"",""
+ball,2,3.1,Chennai Super Kings,DJ Bravo,M Vijay,R Vinay Kumar,2,0,"",""
+ball,2,3.2,Chennai Super Kings,DJ Bravo,M Vijay,R Vinay Kumar,0,0,"",""
+ball,2,3.3,Chennai Super Kings,DJ Bravo,M Vijay,R Vinay Kumar,1,0,"",""
+ball,2,3.4,Chennai Super Kings,M Vijay,DJ Bravo,R Vinay Kumar,1,0,"",""
+ball,2,3.5,Chennai Super Kings,DJ Bravo,M Vijay,R Vinay Kumar,6,0,"",""
+ball,2,3.6,Chennai Super Kings,DJ Bravo,M Vijay,R Vinay Kumar,0,0,caught,DJ Bravo
+ball,2,4.1,Chennai Super Kings,MS Dhoni,M Vijay,JD Unadkat,1,0,"",""
+ball,2,4.2,Chennai Super Kings,M Vijay,MS Dhoni,JD Unadkat,0,0,"",""
+ball,2,4.3,Chennai Super Kings,M Vijay,MS Dhoni,JD Unadkat,4,0,"",""
+ball,2,4.4,Chennai Super Kings,M Vijay,MS Dhoni,JD Unadkat,2,0,"",""
+ball,2,4.5,Chennai Super Kings,M Vijay,MS Dhoni,JD Unadkat,0,0,"",""
+ball,2,4.6,Chennai Super Kings,M Vijay,MS Dhoni,JD Unadkat,1,0,"",""
+ball,2,5.1,Chennai Super Kings,M Vijay,MS Dhoni,RP Singh,6,0,"",""
+ball,2,5.2,Chennai Super Kings,M Vijay,MS Dhoni,RP Singh,1,0,"",""
+ball,2,5.3,Chennai Super Kings,MS Dhoni,M Vijay,RP Singh,1,0,"",""
+ball,2,5.4,Chennai Super Kings,M Vijay,MS Dhoni,RP Singh,6,0,"",""
+ball,2,5.5,Chennai Super Kings,M Vijay,MS Dhoni,RP Singh,1,0,"",""
+ball,2,5.6,Chennai Super Kings,MS Dhoni,M Vijay,RP Singh,4,0,"",""
+ball,2,6.1,Chennai Super Kings,M Vijay,MS Dhoni,R Rampaul,0,0,caught,M Vijay
+ball,2,6.2,Chennai Super Kings,MS Dhoni,RA Jadeja,R Rampaul,1,0,"",""
+ball,2,6.3,Chennai Super Kings,RA Jadeja,MS Dhoni,R Rampaul,2,0,"",""
+ball,2,6.4,Chennai Super Kings,RA Jadeja,MS Dhoni,R Rampaul,1,0,"",""
+ball,2,6.5,Chennai Super Kings,MS Dhoni,RA Jadeja,R Rampaul,6,0,"",""
+ball,2,6.6,Chennai Super Kings,MS Dhoni,RA Jadeja,R Rampaul,0,1,"",""
+ball,2,6.7,Chennai Super Kings,MS Dhoni,RA Jadeja,R Rampaul,1,0,"",""
+ball,2,7.1,Chennai Super Kings,MS Dhoni,RA Jadeja,Z Khan,4,0,"",""
+ball,2,7.2,Chennai Super Kings,MS Dhoni,RA Jadeja,Z Khan,6,0,"",""
+ball,2,7.3,Chennai Super Kings,MS Dhoni,RA Jadeja,Z Khan,0,0,"",""
+ball,2,7.4,Chennai Super Kings,MS Dhoni,RA Jadeja,Z Khan,0,0,caught,MS Dhoni
+ball,2,7.5,Chennai Super Kings,RA Jadeja,S Badrinath,Z Khan,4,0,"",""
+ball,2,7.6,Chennai Super Kings,RA Jadeja,S Badrinath,Z Khan,0,0,caught and bowled,RA Jadeja

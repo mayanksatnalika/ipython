@@ -1,0 +1,142 @@
+,balls,date,fours,oppo,runs,sixes,srate,venue
+0,6,1 May 2004,1,v England,12,1,200.00,Gros Islet
+1,42,2 May 2004,3,v England,33,0,78.57,Gros Islet
+2,19,5 May 2004,0,v England,11,0,57.89,Bridgetown
+3,43,15 May 2004,1,v Bangladesh,16,0,37.20,Kingstown
+4,1,16 May 2004,0,v Bangladesh,0,0,0.00,Kingstown
+5,14,1 Jul 2004,1,v England,5,0,35.71,Leeds
+6,27,3 Jul 2004,1,v New Zealand,15,0,55.55,Cardiff
+7,14,10 Jul 2004,0,v New Zealand,4,0,28.57,Lord's
+8,3,18 Sep 2004,0,v South Africa,4,0,133.33,The Oval
+9,7,25 Sep 2004,0,v England,0,0,0.00,The Oval
+10,10,14 Jan 2005,0,v Australia,3,0,30.00,Melbourne
+11,22,21 Jan 2005,3,v Australia,27,0,122.72,Brisbane
+12,24,26 Jan 2005,0,v Australia,18,1,75.00,Adelaide
+13,3,28 Jan 2005,0,v Pakistan,3,0,100.00,Adelaide
+14,6,1 Feb 2005,0,v Pakistan,1,0,16.66,Perth
+15,14,7 May 2005,1,v South Africa,14,0,100.00,Kingston
+16,42,8 May 2005,0,v South Africa,14,0,33.33,Kingston
+17,19,11 May 2005,0,v South Africa,21,0,110.52,Bridgetown
+18,27,14 May 2005,4,v South Africa,28,0,103.70,Port of Spain
+19,40,15 May 2005,3,v South Africa,41,0,102.50,Port of Spain
+20,66,18 May 2005,1,v Pakistan,27,0,40.90,Kingstown
+21,4,21 May 2005,0,v Pakistan,0,0,0.00,Gros Islet
+22,13,22 May 2005,1,v Pakistan,16,0,123.07,Gros Islet
+23,5,1 Mar 2006,0,v New Zealand,3,0,60.00,Napier
+24,46,4 Mar 2006,2,v New Zealand,38,0,82.60,Auckland
+25,18,29 Apr 2006,1,v Zimbabwe,9,0,50.00,St John's
+26,8,30 Apr 2006,1,v Zimbabwe,9,0,112.50,St John's
+27,15,14 May 2006,2,v Zimbabwe,17,0,113.33,Port of Spain
+28,1,18 May 2006,0,v India,0,0,0.00,Kingston
+29,3,20 May 2006,0,v India,0,0,0.00,Kingston
+30,2,23 May 2006,0,v India,1,0,50.00,Basseterre
+31,62,26 May 2006,3,v India,61,1,98.38,Port of Spain
+32,44,28 May 2006,4,v India,62,0,140.90,Port of Spain
+33,10,12 Sep 2006,1,v Australia,8,0,80.00,Kuala Lumpur
+34,53,18 Sep 2006,2,v Australia,37,1,69.81,Kuala Lumpur
+35,14,20 Sep 2006,0,v India,10,0,71.42,Kuala Lumpur
+36,23,24 Sep 2006,0,v Australia,8,0,34.78,Kuala Lumpur
+37,3,14 Oct 2006,0,v Sri Lanka,0,0,0.00,Mumbai (BS)
+38,33,26 Oct 2006,1,v India,16,0,48.48,Ahmedabad
+39,124,28 Oct 2006,14,v England,112,1,90.32,Ahmedabad
+40,11,2 Nov 2006,3,v South Africa,15,0,136.36,Jaipur
+41,47,5 Nov 2006,3,v Australia,21,0,44.68,Mumbai (BS)
+42,11,21 Jan 2007,3,v India,17,0,154.54,Nagpur
+43,33,24 Jan 2007,4,v India,31,1,93.93,Cuttack
+44,6,27 Jan 2007,1,v India,4,0,66.66,Chennai
+45,17,13 Mar 2007,2,v Pakistan,16,0,94.11,Kingston
+46,46,19 Mar 2007,3,v Zimbabwe,37,2,80.43,Kingston
+47,10,27 Mar 2007,1,v Australia,9,0,90.00,North Sound
+48,30,29 Mar 2007,0,v New Zealand,18,0,60.00,North Sound
+49,24,1 Apr 2007,3,v Sri Lanka,21,0,87.50,Providence
+50,11,10 Apr 2007,0,v South Africa,6,0,54.54,St George's
+51,9,19 Apr 2007,0,v Bangladesh,9,0,100.00,Bridgetown
+52,11,21 Apr 2007,1,v England,13,0,118.18,Bridgetown
+53,34,1 Jul 2007,4,v England,29,0,85.29,Lord's
+54,24,7 Jul 2007,6,v England,42,0,175.00,Nottingham
+55,1,30 Nov 2007,0,v Zimbabwe,0,0,0.00,Harare
+56,10,2 Dec 2007,1,v Zimbabwe,10,0,100.00,Harare
+57,24,4 Dec 2007,6,v Zimbabwe,45,3,187.50,Harare
+58,41,7 Dec 2007,1,v Zimbabwe,41,2,100.00,Bulawayo
+59,5,20 Jan 2008,0,v South Africa,2,0,40.00,Centurion
+60,26,25 Jan 2008,0,v South Africa,11,0,42.30,Cape Town
+61,9,27 Jan 2008,1,v South Africa,7,0,77.77,Port Elizabeth
+62,32,1 Feb 2008,1,v South Africa,18,0,56.25,Durban
+63,34,3 Feb 2008,4,v South Africa,40,1,117.64,Johannesburg
+64,37,10 Apr 2008,3,v Sri Lanka,36,2,97.29,Port of Spain
+65,7,12 Apr 2008,0,v Sri Lanka,2,0,28.57,Port of Spain
+66,37,24 Jun 2008,4,v Australia,33,0,89.18,Kingstown
+67,21,27 Jun 2008,0,v Australia,3,0,14.28,St George's
+68,10,29 Jun 2008,0,v Australia,7,0,70.00,St George's
+69,32,4 Jul 2008,2,v Australia,31,1,96.87,Basseterre
+70,20,6 Jul 2008,1,v Australia,13,0,65.00,Basseterre
+71,3,20 Mar 2009,0,v England,1,0,33.33,Providence
+72,20,22 Mar 2009,0,v England,19,1,95.00,Providence
+73,72,29 Mar 2009,7,v England,69,2,95.83,Bridgetown
+74,46,3 Apr 2009,2,v England,33,1,71.73,Gros Islet
+75,58,24 May 2009,6,v England,50,1,86.20,Bristol
+76,22,26 May 2009,2,v England,26,2,118.18,Birmingham
+77,21,26 Jun 2009,0,v India,8,0,38.09,Kingston
+78,19,3 Jul 2009,1,v India,14,0,73.68,Gros Islet
+79,24,10 Mar 2010,1,v Zimbabwe,24,0,100.00,Kingstown
+80,8,12 Mar 2010,1,v Zimbabwe,6,0,75.00,Kingstown
+81,2,14 Mar 2010,0,v Zimbabwe,0,0,0.00,Kingstown
+82,10,22 May 2010,3,v South Africa,15,0,150.00,North Sound
+83,70,24 May 2010,3,v South Africa,74,2,105.71,North Sound
+84,29,28 May 2010,0,v South Africa,13,0,44.82,Roseau
+85,51,30 May 2010,2,v South Africa,46,1,90.19,Roseau
+86,33,3 Jun 2010,1,v South Africa,26,1,78.78,Port of Spain
+87,55,3 Feb 2011,2,v Sri Lanka,39,0,70.90,Colombo (SSC)
+88,42,6 Feb 2011,0,v Sri Lanka,32,2,76.19,Colombo (SSC)
+89,37,24 Feb 2011,1,v South Africa,40,3,108.10,Delhi
+90,20,23 Apr 2011,0,v Pakistan,14,0,70.00,Gros Islet
+91,24,25 Apr 2011,1,v Pakistan,18,0,75.00,Gros Islet
+92,15,28 Apr 2011,1,v Pakistan,11,0,73.33,Bridgetown
+93,15,2 May 2011,0,v Pakistan,11,1,73.33,Bridgetown
+94,20,6 Jun 2011,0,v India,22,1,110.00,Port of Spain
+95,17,8 Jun 2011,0,v India,8,0,47.05,Port of Spain
+96,43,16 Mar 2012,5,v Australia,32,1,74.41,Kingstown
+97,49,18 Mar 2012,1,v Australia,30,0,61.22,Kingstown
+98,14,20 Mar 2012,0,v Australia,13,1,92.85,Kingstown
+99,1,23 Mar 2012,0,v Australia,0,0,0.00,Gros Islet
+100,22,25 Mar 2012,2,v Australia,19,0,86.36,Gros Islet
+101,7,16 Jun 2012,1,v England,8,0,114.28,Southampton
+102,82,19 Jun 2012,8,v England,77,2,93.90,The Oval
+103,7,7 Jul 2012,0,v New Zealand,3,0,42.85,Kingston
+104,2,11 Jul 2012,0,v New Zealand,2,0,100.00,Basseterre
+105,35,14 Jul 2012,2,v New Zealand,18,0,51.42,Basseterre
+106,93,16 Jul 2012,3,v New Zealand,53,1,56.98,Basseterre
+107,2,1 Feb 2013,0,v Australia,0,0,0.00,Perth
+108,56,3 Feb 2013,4,v Australia,45,2,80.35,Perth
+109,50,6 Feb 2013,5,v Australia,51,0,102.00,Canberra
+110,8,8 Feb 2013,0,v Australia,3,0,37.50,Sydney
+111,12,10 Feb 2013,0,v Australia,13,1,108.33,Melbourne
+112,18,22 Feb 2013,0,v Zimbabwe,9,0,50.00,St George's
+113,23,26 Feb 2013,1,v Zimbabwe,25,1,108.69,St George's
+114,36,7 Jun 2013,0,v Pakistan,19,0,52.77,The Oval
+115,40,11 Jun 2013,3,v India,25,0,62.50,The Oval
+116,7,14 Jun 2013,1,v South Africa,8,0,114.28,Cardiff
+117,11,28 Jun 2013,2,v Sri Lanka,8,0,72.72,Kingston
+118,29,5 Jul 2013,0,v India,14,1,48.27,Port of Spain
+119,1,14 Jul 2013,0,v Pakistan,0,0,0.00,Providence
+120,52,16 Jul 2013,5,v Pakistan,43,0,82.69,Providence
+121,24,19 Jul 2013,1,v Pakistan,13,0,54.16,Gros Islet
+122,5,21 Jul 2013,1,v Pakistan,6,0,120.00,Gros Islet
+123,27,24 Jul 2013,5,v Pakistan,48,3,177.77,Gros Islet
+124,28,21 Nov 2013,2,v India,24,1,85.71,Kochi
+125,26,24 Nov 2013,2,v India,18,0,69.23,Visakhapatnam
+126,11,27 Nov 2013,0,v India,4,0,36.36,Kanpur
+127,14,26 Dec 2013,1,v New Zealand,12,1,85.71,Auckland
+128,54,1 Jan 2014,3,v New Zealand,56,3,103.70,Queenstown
+129,55,4 Jan 2014,3,v New Zealand,43,0,78.18,Nelson
+130,81,8 Jan 2014,12,v New Zealand,106,3,130.86,Hamilton
+131,29,23 Feb 2014,5,v Ireland,35,1,120.68,Kingston
+132,91,28 Feb 2014,8,v England,87,1,95.60,North Sound
+133,38,2 Mar 2014,1,v England,20,0,52.63,North Sound
+134,32,5 Mar 2014,3,v England,27,0,84.37,North Sound
+135,6,20 Aug 2014,1,v Bangladesh,5,0,83.33,St George's
+136,5,22 Aug 2014,1,v Bangladesh,6,0,120.00,St George's
+137,6,25 Aug 2014,0,v Bangladesh,3,0,50.00,Basseterre
+138,24,8 Oct 2014,4,v India,17,0,70.83,Kochi
+139,15,11 Oct 2014,1,v India,10,0,66.66,Delhi
+140,2,17 Oct 2014,0,v India,0,0,0.00,Dharamsala

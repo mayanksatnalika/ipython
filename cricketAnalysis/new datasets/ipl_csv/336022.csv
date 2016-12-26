@@ -1,0 +1,144 @@
+version,1
+info,team,Delhi Daredevils
+info,team,Kings XI Punjab
+info,gender,male
+info,season,2007/08
+info,date,2008/05/17
+info,competition,Indian Premier League
+info,match_number,40
+info,venue,Feroz Shah Kotla
+info,city,Delhi
+info,toss_winner,Delhi Daredevils
+info,toss_decision,bat
+info,player_of_match,DPMD Jayawardene
+info,umpire,AV Jayaprakash
+info,umpire,RE Koertzen
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,BG Jerling
+info,match_referee,CH Lloyd
+info,winner,Kings XI Punjab
+info,winner_runs,6
+info,method,D/L
+ball,1,0.1,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,0,0,"",""
+ball,1,0.2,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,0,1,"",""
+ball,1,0.3,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,0,2,"",""
+ball,1,0.4,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,0,0,"",""
+ball,1,0.5,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,0,0,"",""
+ball,1,0.6,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,0,0,"",""
+ball,1,0.7,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,0,1,"",""
+ball,1,0.8,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,6,0,"",""
+ball,1,0.9,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,0,0,"",""
+ball,1,1.1,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,1.2,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,1.3,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,4,0,"",""
+ball,1,1.4,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,1.5,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,1.6,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,2.1,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,2,0,"",""
+ball,1,2.2,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,1,0,"",""
+ball,1,2.3,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,4,0,"",""
+ball,1,2.4,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,0,0,"",""
+ball,1,2.5,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,1,0,"",""
+ball,1,2.6,Delhi Daredevils,V Sehwag,G Gambhir,S Sreesanth,2,0,"",""
+ball,1,3.1,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,3.2,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,4,0,"",""
+ball,1,3.3,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,3.4,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,4,0,"",""
+ball,1,3.5,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,0,0,"",""
+ball,1,3.6,Delhi Daredevils,G Gambhir,V Sehwag,IK Pathan,1,0,"",""
+ball,1,4.1,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,0,0,"",""
+ball,1,4.2,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,2,0,"",""
+ball,1,4.3,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,2,0,"",""
+ball,1,4.4,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,0,1,"",""
+ball,1,4.5,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,2,0,"",""
+ball,1,4.6,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,2,0,"",""
+ball,1,4.7,Delhi Daredevils,G Gambhir,V Sehwag,S Sreesanth,4,0,"",""
+ball,1,5.1,Delhi Daredevils,V Sehwag,G Gambhir,VRV Singh,1,0,"",""
+ball,1,5.2,Delhi Daredevils,G Gambhir,V Sehwag,VRV Singh,4,0,"",""
+ball,1,5.3,Delhi Daredevils,G Gambhir,V Sehwag,VRV Singh,1,0,"",""
+ball,1,5.4,Delhi Daredevils,V Sehwag,G Gambhir,VRV Singh,6,0,"",""
+ball,1,5.5,Delhi Daredevils,V Sehwag,G Gambhir,VRV Singh,6,0,"",""
+ball,1,5.6,Delhi Daredevils,V Sehwag,G Gambhir,VRV Singh,4,0,"",""
+ball,1,6.1,Delhi Daredevils,G Gambhir,V Sehwag,RR Powar,0,1,"",""
+ball,1,6.2,Delhi Daredevils,G Gambhir,V Sehwag,RR Powar,1,0,"",""
+ball,1,6.3,Delhi Daredevils,V Sehwag,G Gambhir,RR Powar,0,0,"",""
+ball,1,6.4,Delhi Daredevils,V Sehwag,G Gambhir,RR Powar,1,0,"",""
+ball,1,6.5,Delhi Daredevils,G Gambhir,V Sehwag,RR Powar,4,0,"",""
+ball,1,6.6,Delhi Daredevils,G Gambhir,V Sehwag,RR Powar,0,0,"",""
+ball,1,6.7,Delhi Daredevils,G Gambhir,V Sehwag,RR Powar,0,0,bowled,G Gambhir
+ball,1,7.1,Delhi Daredevils,V Sehwag,S Dhawan,PP Chawla,4,0,"",""
+ball,1,7.2,Delhi Daredevils,V Sehwag,S Dhawan,PP Chawla,6,0,"",""
+ball,1,7.3,Delhi Daredevils,V Sehwag,S Dhawan,PP Chawla,1,0,"",""
+ball,1,7.4,Delhi Daredevils,S Dhawan,V Sehwag,PP Chawla,1,0,"",""
+ball,1,7.5,Delhi Daredevils,V Sehwag,S Dhawan,PP Chawla,1,0,"",""
+ball,1,7.6,Delhi Daredevils,S Dhawan,V Sehwag,PP Chawla,0,0,"",""
+ball,1,8.1,Delhi Daredevils,V Sehwag,S Dhawan,RR Powar,6,0,"",""
+ball,1,8.2,Delhi Daredevils,V Sehwag,S Dhawan,RR Powar,0,1,"",""
+ball,1,8.3,Delhi Daredevils,V Sehwag,S Dhawan,RR Powar,0,1,"",""
+ball,1,8.4,Delhi Daredevils,S Dhawan,V Sehwag,RR Powar,6,0,"",""
+ball,1,8.5,Delhi Daredevils,S Dhawan,V Sehwag,RR Powar,1,0,"",""
+ball,1,8.6,Delhi Daredevils,V Sehwag,S Dhawan,RR Powar,1,0,"",""
+ball,1,8.7,Delhi Daredevils,S Dhawan,V Sehwag,RR Powar,0,0,caught,S Dhawan
+ball,1,9.1,Delhi Daredevils,V Sehwag,TM Dilshan,VRV Singh,1,0,"",""
+ball,1,9.2,Delhi Daredevils,TM Dilshan,V Sehwag,VRV Singh,2,1,"",""
+ball,1,9.3,Delhi Daredevils,TM Dilshan,V Sehwag,VRV Singh,4,0,"",""
+ball,1,9.4,Delhi Daredevils,TM Dilshan,V Sehwag,VRV Singh,1,0,"",""
+ball,1,9.5,Delhi Daredevils,V Sehwag,TM Dilshan,VRV Singh,1,0,"",""
+ball,1,9.6,Delhi Daredevils,TM Dilshan,V Sehwag,VRV Singh,1,0,"",""
+ball,1,9.7,Delhi Daredevils,V Sehwag,TM Dilshan,VRV Singh,0,0,"",""
+ball,1,10.1,Delhi Daredevils,TM Dilshan,V Sehwag,JR Hopes,0,0,"",""
+ball,1,10.2,Delhi Daredevils,TM Dilshan,V Sehwag,JR Hopes,0,0,caught,TM Dilshan
+ball,1,10.3,Delhi Daredevils,V Sehwag,MF Maharoof,JR Hopes,0,1,"",""
+ball,1,10.4,Delhi Daredevils,MF Maharoof,V Sehwag,JR Hopes,0,0,caught,MF Maharoof
+ball,1,10.5,Delhi Daredevils,V Sehwag,Shoaib Malik,JR Hopes,1,0,"",""
+ball,1,10.6,Delhi Daredevils,Shoaib Malik,V Sehwag,JR Hopes,1,0,"",""
+ball,2,0.1,Kings XI Punjab,SE Marsh,JR Hopes,GD McGrath,1,0,"",""
+ball,2,0.2,Kings XI Punjab,JR Hopes,SE Marsh,GD McGrath,0,0,"",""
+ball,2,0.3,Kings XI Punjab,JR Hopes,SE Marsh,GD McGrath,1,0,"",""
+ball,2,0.4,Kings XI Punjab,SE Marsh,JR Hopes,GD McGrath,0,0,"",""
+ball,2,0.5,Kings XI Punjab,SE Marsh,JR Hopes,GD McGrath,0,0,"",""
+ball,2,0.6,Kings XI Punjab,SE Marsh,JR Hopes,GD McGrath,1,0,"",""
+ball,2,1.1,Kings XI Punjab,SE Marsh,JR Hopes,PJ Sangwan,0,0,caught,SE Marsh
+ball,2,1.2,Kings XI Punjab,JR Hopes,Yuvraj Singh,PJ Sangwan,0,1,"",""
+ball,2,1.3,Kings XI Punjab,JR Hopes,Yuvraj Singh,PJ Sangwan,1,0,"",""
+ball,2,1.4,Kings XI Punjab,Yuvraj Singh,JR Hopes,PJ Sangwan,4,0,"",""
+ball,2,1.5,Kings XI Punjab,Yuvraj Singh,JR Hopes,PJ Sangwan,6,0,"",""
+ball,2,1.6,Kings XI Punjab,Yuvraj Singh,JR Hopes,PJ Sangwan,0,0,"",""
+ball,2,1.7,Kings XI Punjab,Yuvraj Singh,JR Hopes,PJ Sangwan,0,0,"",""
+ball,2,2.1,Kings XI Punjab,JR Hopes,Yuvraj Singh,GD McGrath,1,0,"",""
+ball,2,2.2,Kings XI Punjab,Yuvraj Singh,JR Hopes,GD McGrath,1,0,"",""
+ball,2,2.3,Kings XI Punjab,JR Hopes,Yuvraj Singh,GD McGrath,1,0,"",""
+ball,2,2.4,Kings XI Punjab,Yuvraj Singh,JR Hopes,GD McGrath,6,0,"",""
+ball,2,2.5,Kings XI Punjab,Yuvraj Singh,JR Hopes,GD McGrath,6,0,"",""
+ball,2,2.6,Kings XI Punjab,Yuvraj Singh,JR Hopes,GD McGrath,0,0,caught,Yuvraj Singh
+ball,2,3.1,Kings XI Punjab,LA Pomersbach,JR Hopes,A Mishra,0,0,"",""
+ball,2,3.2,Kings XI Punjab,LA Pomersbach,JR Hopes,A Mishra,1,0,"",""
+ball,2,3.3,Kings XI Punjab,JR Hopes,LA Pomersbach,A Mishra,0,0,caught,JR Hopes
+ball,2,3.4,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,A Mishra,1,0,"",""
+ball,2,3.5,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,A Mishra,1,0,"",""
+ball,2,3.6,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,A Mishra,1,0,"",""
+ball,2,4.1,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,V Sehwag,4,0,"",""
+ball,2,4.2,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,V Sehwag,0,1,"",""
+ball,2,4.3,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,V Sehwag,4,0,"",""
+ball,2,4.4,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,V Sehwag,4,0,"",""
+ball,2,4.5,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,V Sehwag,1,0,"",""
+ball,2,4.6,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,V Sehwag,6,0,"",""
+ball,2,4.7,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,V Sehwag,2,0,"",""
+ball,2,5.1,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,A Mishra,2,0,"",""
+ball,2,5.2,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,A Mishra,6,0,"",""
+ball,2,5.3,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,A Mishra,1,0,"",""
+ball,2,5.4,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,A Mishra,6,0,"",""
+ball,2,5.5,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,A Mishra,1,0,"",""
+ball,2,5.6,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,A Mishra,1,0,"",""
+ball,2,6.1,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,MF Maharoof,2,0,"",""
+ball,2,6.2,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,MF Maharoof,1,0,"",""
+ball,2,6.3,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,MF Maharoof,6,0,"",""
+ball,2,6.4,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,MF Maharoof,1,0,"",""
+ball,2,6.5,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,MF Maharoof,1,0,"",""
+ball,2,6.6,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,MF Maharoof,0,1,"",""
+ball,2,7.1,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,R Bhatia,1,0,"",""
+ball,2,7.2,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,R Bhatia,0,0,"",""
+ball,2,7.3,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,R Bhatia,1,0,"",""
+ball,2,7.4,Kings XI Punjab,LA Pomersbach,DPMD Jayawardene,R Bhatia,0,1,"",""
+ball,2,7.5,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,R Bhatia,0,0,"",""
+ball,2,7.6,Kings XI Punjab,DPMD Jayawardene,LA Pomersbach,R Bhatia,6,0,"",""

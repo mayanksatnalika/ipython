@@ -1,0 +1,77 @@
+,balls,date,fours,oppo,runs,sixes,srate,venue
+0,53,24 Jun 2010,3,v England,41,0,77.35,Cardiff
+1,21,27 Jun 2010,1,v England,20,0,95.23,Manchester
+2,8,30 Jun 2010,4,v England,18,0,225.00,The Oval
+3,13,3 Jul 2010,1,v England,15,0,115.38,Lord's
+4,15,3 Nov 2010,1,v Sri Lanka,12,0,80.00,Melbourne
+5,37,5 Nov 2010,1,v Sri Lanka,33,0,89.18,Sydney
+6,4,16 Jan 2011,1,v England,5,0,125.00,Melbourne
+7,2,21 Jan 2011,0,v England,0,0,0.00,Hobart
+8,37,23 Jan 2011,2,v England,26,1,70.27,Sydney
+9,47,26 Jan 2011,4,v England,46,0,97.87,Adelaide
+10,25,30 Jan 2011,1,v England,24,1,96.00,Brisbane
+11,2,2 Feb 2011,0,v England,0,0,0.00,Sydney
+12,4,21 Feb 2011,1,v Zimbabwe,11,1,275.00,Ahmedabad
+13,15,13 Mar 2011,2,v Kenya,17,0,113.33,Bangalore
+14,32,19 Mar 2011,1,v Pakistan,25,0,78.12,Colombo (RPS)
+15,3,9 Apr 2011,0,v Bangladesh,1,0,33.33,Dhaka
+16,9,13 Apr 2011,1,v Bangladesh,5,0,55.55,Dhaka
+17,28,16 Aug 2011,0,v Sri Lanka,18,0,64.28,Hambantota
+18,39,23 Oct 2011,0,v South Africa,26,0,66.66,Port Elizabeth
+19,13,29 Jun 2012,0,v England,8,0,61.53,Lord's
+20,20,10 Jul 2012,2,v England,21,0,105.00,Manchester
+21,11,13 Jan 2013,1,v Sri Lanka,8,0,72.72,Adelaide
+22,16,24 Jan 2014,2,v England,19,1,118.75,Perth
+23,1,25 Aug 2014,0,v Zimbabwe,1,0,100.00,Harare
+24,19,27 Aug 2014,4,v South Africa,31,0,163.15,Harare
+25,62,2 Sep 2014,2,v South Africa,36,0,58.06,Harare
+26,15,6 Sep 2014,2,v South Africa,10,0,66.66,Harare
+27,118,7 Oct 2014,6,v Pakistan,101,2,85.59,Sharjah
+28,15,10 Oct 2014,2,v Pakistan,12,0,80.00,Dubai (DSC)
+29,105,12 Oct 2014,3,v Pakistan,77,0,73.33,Abu Dhabi
+30,20,16 Nov 2014,2,v South Africa,10,0,50.00,Perth
+31,55,19 Nov 2014,8,v South Africa,73,0,132.72,Canberra
+32,112,21 Nov 2014,7,v South Africa,104,0,92.85,Melbourne
+33,74,23 Nov 2014,6,v South Africa,67,1,90.54,Sydney
+34,47,16 Jan 2015,2,v England,37,1,78.72,Sydney
+35,52,18 Jan 2015,6,v India,47,0,90.38,Melbourne
+36,95,23 Jan 2015,6,v England,102,1,107.36,Hobart
+37,50,1 Feb 2015,5,v England,40,0,80.00,Perth
+38,9,14 Feb 2015,1,v England,5,0,55.55,Melbourne
+39,11,28 Feb 2015,0,v New Zealand,4,0,36.36,Auckland
+40,98,4 Mar 2015,8,v Afghanistan,95,1,96.93,Perth
+41,88,8 Mar 2015,7,v Sri Lanka,72,1,81.81,Sydney
+42,69,20 Mar 2015,7,v Pakistan,65,0,94.20,Adelaide
+43,93,26 Mar 2015,11,v India,105,2,112.90,Sydney
+44,71,29 Mar 2015,3,v New Zealand,56,0,78.87,Melbourne
+45,38,27 Aug 2015,1,v Ireland,21,0,55.26,Belfast
+46,54,3 Sep 2015,3,v England,44,1,81.48,Southampton
+47,87,5 Sep 2015,7,v England,70,0,80.45,Lord's
+48,33,8 Sep 2015,3,v England,25,0,75.75,Manchester
+49,12,11 Sep 2015,0,v England,5,0,41.66,Leeds
+50,28,13 Sep 2015,1,v England,12,0,42.85,Manchester
+51,135,12 Jan 2016,11,v India,149,2,110.37,Perth
+52,47,15 Jan 2016,4,v India,46,0,97.87,Brisbane
+53,45,17 Jan 2016,5,v India,41,0,91.11,Melbourne
+54,29,20 Jan 2016,4,v India,51,3,175.86,Canberra
+55,37,23 Jan 2016,3,v India,28,0,75.67,Sydney
+56,17,3 Feb 2016,3,v New Zealand,18,0,105.88,Auckland
+57,12,6 Feb 2016,0,v New Zealand,2,0,16.66,Wellington
+58,35,8 Feb 2016,1,v New Zealand,21,0,60.00,Hamilton
+59,10,5 Jun 2016,1,v West Indies,6,0,60.00,Providence
+60,10,7 Jun 2016,0,v South Africa,8,0,80.00,Providence
+61,49,11 Jun 2016,5,v South Africa,52,1,106.12,Basseterre
+62,95,13 Jun 2016,5,v West Indies,74,2,77.89,Basseterre
+63,107,21 Jun 2016,5,v West Indies,78,0,72.89,Bridgetown
+64,59,26 Jun 2016,4,v West Indies,46,0,77.96,Bridgetown
+65,92,21 Aug 2016,5,v Sri Lanka,58,0,63.04,Colombo (RPS)
+66,33,24 Aug 2016,5,v Sri Lanka,30,0,90.90,Colombo (RPS)
+67,74,27 Sep 2016,6,v Ireland,59,1,79.72,Benoni
+68,11,30 Sep 2016,2,v South Africa,8,0,72.72,Centurion
+69,12,2 Oct 2016,2,v South Africa,14,0,116.66,Johannesburg
+70,107,5 Oct 2016,9,v South Africa,108,1,100.93,Durban
+71,36,9 Oct 2016,2,v South Africa,21,0,58.33,Port Elizabeth
+72,2,12 Oct 2016,0,v South Africa,0,0,0.00,Cape Town
+73,157,4 Dec 2016,14,v New Zealand,164,4,104.45,Sydney
+74,76,6 Dec 2016,6,v New Zealand,72,1,94.73,Canberra
+75,7,9 Dec 2016,0,v New Zealand,0,0,0.00,Melbourne

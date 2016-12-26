@@ -1,0 +1,88 @@
+,balls,date,fours,oppo,runs,sixes,srate,venue
+0,77,8 Feb 2009,5,v Sri Lanka,60,0,77.92,Colombo (RPS)
+1,1,26 Jun 2009,0,v West Indies,0,0,0.00,Kingston
+2,12,28 Jun 2009,1,v West Indies,7,0,58.33,Kingston
+3,13,25 Oct 2009,0,v Australia,5,0,38.46,Vadodara
+4,21,2 Nov 2009,1,v Australia,7,0,33.33,Mohali
+5,17,5 Nov 2009,3,v Australia,23,0,135.29,Hyderabad (Deccan)
+6,103,8 Nov 2009,6,v Australia,57,0,55.33,Guwahati
+7,17,15 Dec 2009,1,v Sri Lanka,30,2,176.47,Rajkot
+8,6,18 Dec 2009,2,v Sri Lanka,12,0,200.00,Nagpur
+9,34,5 Jan 2010,3,v Sri Lanka,39,1,114.70,Dhaka
+10,64,13 Jan 2010,0,v Sri Lanka,38,0,59.37,Dhaka
+11,20,21 Feb 2010,1,v South Africa,22,0,110.00,Jaipur
+12,35,27 Feb 2010,2,v South Africa,36,1,102.85,Ahmedabad
+13,61,28 May 2010,5,v Zimbabwe,61,0,100.00,Bulawayo
+14,72,3 Jun 2010,3,v Zimbabwe,51,2,70.83,Harare
+15,26,5 Jun 2010,0,v Sri Lanka,19,1,73.07,Harare
+16,9,19 Jun 2010,0,v Pakistan,6,0,66.66,Dambulla
+17,1,22 Jun 2010,0,v Sri Lanka,0,0,0.00,Dambulla
+18,27,24 Jun 2010,1,v Sri Lanka,25,0,92.59,Dambulla
+19,44,10 Aug 2010,2,v New Zealand,20,0,45.45,Dambulla
+20,9,22 Aug 2010,0,v Sri Lanka,0,0,0.00,Dambulla
+21,26,25 Aug 2010,3,v New Zealand,17,0,65.38,Dambulla
+22,89,9 Sep 2011,10,v England,78,0,87.64,The Oval
+23,0,11 Sep 2011,0,v England,0,0,-,Lord's
+24,1,16 Sep 2011,0,v England,0,0,0.00,Cardiff
+25,22,14 Oct 2011,1,v England,27,2,122.72,Hyderabad (Deccan)
+26,24,20 Oct 2011,2,v England,26,0,108.33,Mohali
+27,21,25 Oct 2011,2,v England,21,0,100.00,Kolkata
+28,62,29 Nov 2011,3,v West Indies,38,0,61.29,Cuttack
+29,8,2 Dec 2011,1,v West Indies,9,0,112.50,Visakhapatnam
+30,16,5 Dec 2011,2,v West Indies,11,0,68.75,Ahmedabad
+31,10,8 Dec 2011,0,v West Indies,10,0,100.00,Indore
+32,25,5 Feb 2012,0,v Australia,19,0,76.00,Melbourne
+33,28,8 Feb 2012,1,v Sri Lanka,24,0,85.71,Perth
+34,8,12 Feb 2012,0,v Australia,12,0,150.00,Adelaide
+35,10,14 Feb 2012,0,v Sri Lanka,3,0,30.00,Adelaide
+36,35,19 Feb 2012,1,v Australia,18,0,51.42,Brisbane
+37,21,21 Feb 2012,1,v Sri Lanka,17,0,80.95,Brisbane
+38,17,26 Feb 2012,1,v Australia,8,0,47.05,Sydney
+39,2,16 Mar 2012,0,v Bangladesh,4,0,200.00,Dhaka
+40,23,3 Jan 2013,0,v Pakistan,13,0,56.52,Kolkata
+41,39,6 Jan 2013,0,v Pakistan,27,2,69.23,Delhi
+42,9,11 Jan 2013,0,v England,7,0,77.77,Rajkot
+43,37,15 Jan 2013,8,v England,61,2,164.86,Kochi
+44,27,23 Jan 2013,2,v England,21,0,77.77,Mohali
+45,65,27 Jan 2013,1,v England,39,2,60.00,Dharamsala
+46,29,6 Jun 2013,7,v South Africa,47,1,162.06,Cardiff
+47,25,23 Jun 2013,2,v England,33,2,132.00,Birmingham
+48,20,30 Jun 2013,2,v West Indies,15,0,75.00,Kingston
+49,62,2 Jul 2013,4,v Sri Lanka,49,1,79.03,Kingston
+50,5,5 Jul 2013,0,v West Indies,2,0,40.00,Port of Spain
+51,14,11 Jul 2013,0,v Sri Lanka,5,0,35.71,Port of Spain
+52,22,26 Jul 2013,1,v Zimbabwe,15,0,68.18,Harare
+53,77,3 Aug 2013,4,v Zimbabwe,48,2,62.33,Bulawayo
+54,18,13 Oct 2013,1,v Australia,11,0,61.11,Pune
+55,4,19 Oct 2013,0,v Australia,2,0,50.00,Mohali
+56,0,2 Nov 2013,0,v Australia,0,0,-,Bangalore
+57,20,24 Nov 2013,0,v West Indies,10,0,50.00,Visakhapatnam
+58,11,27 Nov 2013,0,v West Indies,2,0,18.18,Kanpur
+59,30,5 Dec 2013,6,v South Africa,29,0,96.66,Johannesburg
+60,34,8 Dec 2013,1,v South Africa,26,1,76.47,Durban
+61,3,19 Jan 2014,0,v New Zealand,0,0,0.00,Napier
+62,8,22 Jan 2014,0,v New Zealand,12,1,150.00,Hamilton
+63,45,25 Jan 2014,5,v New Zealand,66,4,146.66,Auckland
+64,54,28 Jan 2014,8,v New Zealand,62,2,114.81,Hamilton
+65,6,31 Jan 2014,1,v New Zealand,5,0,83.33,Wellington
+66,27,28 Feb 2014,0,v Sri Lanka,22,1,81.48,Fatullah
+67,49,2 Mar 2014,4,v Pakistan,52,2,106.12,Dhaka
+68,11,27 Aug 2014,0,v England,9,0,81.81,Cardiff
+69,9,30 Aug 2014,1,v England,12,0,133.33,Nottingham
+70,68,5 Sep 2014,9,v England,87,2,127.94,Leeds
+71,36,8 Oct 2014,2,v West Indies,33,1,91.66,Kochi
+72,16,11 Oct 2014,0,v West Indies,6,0,37.50,Delhi
+73,2,17 Oct 2014,0,v West Indies,2,0,100.00,Dharamsala
+74,1,6 Nov 2014,0,v Sri Lanka,1,0,100.00,Ahmedabad
+75,9,30 Jan 2015,0,v England,5,0,55.55,Perth
+76,5,15 Feb 2015,0,v Pakistan,3,0,60.00,Adelaide
+77,4,22 Feb 2015,0,v South Africa,2,0,50.00,Melbourne
+78,23,6 Mar 2015,2,v West Indies,13,0,56.52,Perth
+79,10,19 Mar 2015,4,v Bangladesh,23,0,230.00,Melbourne
+80,17,26 Mar 2015,2,v Australia,16,0,94.11,Sydney
+81,42,18 Jun 2015,2,v Bangladesh,32,0,76.19,Dhaka
+82,26,21 Jun 2015,1,v Bangladesh,19,0,73.07,Dhaka
+83,5,12 Jan 2016,1,v Australia,10,0,200.00,Perth
+84,5,15 Jan 2016,0,v Australia,5,0,100.00,Brisbane
+85,5,17 Jan 2016,0,v Australia,6,0,120.00,Melbourne
+86,27,20 Jan 2016,1,v Australia,24,0,88.88,Canberra

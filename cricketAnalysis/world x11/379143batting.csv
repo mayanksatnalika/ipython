@@ -1,0 +1,70 @@
+,balls,date,fours,oppo,runs,sixes,srate,venue
+0,34,19 Jan 2013,1,v New Zealand,18,0,52.94,Paarl
+1,28,22 Jan 2013,1,v New Zealand,25,2,89.28,Kimberley
+2,38,25 Jan 2013,4,v New Zealand,31,0,81.57,Potchefstroom
+3,12,24 Mar 2013,0,v Pakistan,3,0,25.00,Benoni
+4,28,26 Jul 2013,3,v Sri Lanka,20,0,71.42,Pallekele
+5,9,28 Jul 2013,2,v Sri Lanka,8,0,88.88,Pallekele
+6,21,31 Jul 2013,5,v Sri Lanka,27,0,128.57,Colombo (RPS)
+7,57,6 Nov 2013,5,v Pakistan,40,0,70.17,Abu Dhabi
+8,135,8 Nov 2013,9,v Pakistan,112,1,82.96,Abu Dhabi
+9,41,11 Nov 2013,5,v Pakistan,34,0,82.92,Sharjah
+10,24,24 Nov 2013,3,v Pakistan,19,0,79.16,Cape Town
+11,52,27 Nov 2013,3,v Pakistan,47,1,90.38,Port Elizabeth
+12,18,30 Nov 2013,3,v Pakistan,15,0,83.33,Centurion
+13,121,5 Dec 2013,18,v India,135,3,111.57,Johannesburg
+14,118,8 Dec 2013,9,v India,106,0,89.83,Durban
+15,120,11 Dec 2013,9,v India,101,2,84.16,Centurion
+16,35,6 Jul 2014,3,v Sri Lanka,27,1,77.14,Colombo (RPS)
+17,6,9 Jul 2014,1,v Sri Lanka,4,0,66.66,Pallekele
+18,127,12 Jul 2014,12,v Sri Lanka,128,3,100.78,Hambantota
+19,68,17 Aug 2014,8,v Zimbabwe,63,1,92.64,Bulawayo
+20,38,19 Aug 2014,5,v Zimbabwe,38,0,100.00,Bulawayo
+21,75,21 Aug 2014,7,v Zimbabwe,84,2,112.00,Bulawayo
+22,18,27 Aug 2014,2,v Australia,19,0,105.55,Harare
+23,76,29 Aug 2014,7,v Zimbabwe,76,1,100.00,Harare
+24,5,2 Sep 2014,0,v Australia,1,0,20.00,Harare
+25,4,4 Sep 2014,0,v Zimbabwe,2,0,50.00,Harare
+26,7,6 Sep 2014,1,v Australia,7,0,100.00,Harare
+27,5,21 Oct 2014,2,v New Zealand,9,0,180.00,Mount Maunganui
+28,33,24 Oct 2014,3,v New Zealand,26,0,78.78,Mount Maunganui
+29,94,27 Oct 2014,11,v New Zealand,80,0,85.10,Hamilton
+30,7,14 Nov 2014,0,v Australia,2,0,28.57,Perth
+31,8,16 Nov 2014,1,v Australia,4,0,50.00,Perth
+32,53,19 Nov 2014,4,v Australia,47,1,88.67,Canberra
+33,38,21 Nov 2014,0,v Australia,17,0,44.73,Melbourne
+34,123,23 Nov 2014,14,v Australia,107,0,86.99,Sydney
+35,7,28 Jan 2015,1,v West Indies,4,0,57.14,Centurion
+36,16,15 Feb 2015,1,v Zimbabwe,7,0,43.75,Hamilton
+37,15,22 Feb 2015,1,v India,7,0,46.66,Melbourne
+38,19,27 Feb 2015,3,v West Indies,12,0,63.15,Sydney
+39,4,3 Mar 2015,0,v Ireland,1,0,25.00,Canberra
+40,2,7 Mar 2015,0,v Pakistan,0,0,0.00,Auckland
+41,45,12 Mar 2015,2,v U.A.E.,26,0,57.77,Wellington
+42,57,18 Mar 2015,12,v Sri Lanka,78,0,136.84,Sydney
+43,17,24 Mar 2015,2,v New Zealand,14,0,82.35,Auckland
+44,41,10 Jul 2015,5,v Bangladesh,35,0,85.36,Dhaka
+45,9,12 Jul 2015,0,v Bangladesh,2,0,22.22,Dhaka
+46,8,15 Jul 2015,1,v Bangladesh,7,0,87.50,Chittagong
+47,33,11 Oct 2015,5,v India,29,0,87.87,Kanpur
+48,36,14 Oct 2015,5,v India,34,0,94.44,Indore
+49,118,18 Oct 2015,11,v India,103,1,87.28,Rajkot
+50,35,22 Oct 2015,6,v India,43,1,122.85,Chennai
+51,87,25 Oct 2015,17,v India,109,1,125.28,Mumbai
+52,96,3 Feb 2016,12,v England,138,6,143.75,Bloemfontein
+53,33,6 Feb 2016,4,v England,22,0,66.66,Port Elizabeth
+54,117,9 Feb 2016,16,v England,135,4,115.38,Centurion
+55,42,12 Feb 2016,4,v England,27,0,64.28,Johannesburg
+56,17,14 Feb 2016,1,v England,4,0,23.52,Cape Town
+57,34,3 Jun 2016,6,v West Indies,30,0,88.23,Providence
+58,23,7 Jun 2016,2,v Australia,18,1,78.26,Providence
+59,29,11 Jun 2016,3,v Australia,19,0,65.51,Basseterre
+60,103,15 Jun 2016,6,v West Indies,71,0,68.93,Basseterre
+61,5,19 Jun 2016,1,v Australia,5,0,100.00,Bridgetown
+62,6,24 Jun 2016,1,v West Indies,6,0,100.00,Bridgetown
+63,66,25 Sep 2016,8,v Ireland,82,2,124.24,Benoni
+64,113,30 Sep 2016,16,v Australia,178,11,157.52,Centurion
+65,24,2 Oct 2016,2,v Australia,22,0,91.66,Johannesburg
+66,49,5 Oct 2016,6,v Australia,70,2,142.85,Durban
+67,14,9 Oct 2016,3,v Australia,18,0,128.57,Port Elizabeth
+68,18,12 Oct 2016,0,v Australia,12,0,66.66,Cape Town

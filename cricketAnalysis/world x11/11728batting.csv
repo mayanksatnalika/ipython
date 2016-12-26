@@ -1,0 +1,93 @@
+,balls,date,fours,oppo,runs,sixes,srate,venue
+0,38,28 Jun 2006,8,v Sri Lanka,39,0,102.63,Manchester
+1,54,1 Jul 2006,4,v Sri Lanka,41,0,75.92,Leeds
+2,47,1 Jul 2007,3,v West Indies,29,0,61.70,Lord's
+3,24,4 Jul 2007,3,v West Indies,19,0,79.16,Birmingham
+4,27,7 Jul 2007,4,v West Indies,18,0,66.66,Nottingham
+5,126,21 Aug 2007,8,v India,102,0,80.95,Southampton
+6,41,24 Aug 2007,8,v India,36,0,87.80,Bristol
+7,56,27 Aug 2007,4,v India,40,0,71.42,Birmingham
+8,5,30 Aug 2007,0,v India,0,0,0.00,Manchester
+9,11,2 Sep 2007,0,v India,4,0,36.36,Leeds
+10,2,5 Sep 2007,0,v India,0,0,0.00,The Oval
+11,80,1 Oct 2007,3,v Sri Lanka,46,0,57.50,Dambulla
+12,12,4 Oct 2007,0,v Sri Lanka,1,0,8.33,Dambulla
+13,7,7 Oct 2007,0,v Sri Lanka,0,0,0.00,Dambulla
+14,123,10 Oct 2007,6,v Sri Lanka,80,0,65.04,Colombo (RPS)
+15,47,13 Oct 2007,3,v Sri Lanka,28,0,59.57,Colombo (RPS)
+16,26,9 Feb 2008,0,v New Zealand,11,0,42.30,Wellington
+17,69,12 Feb 2008,6,v New Zealand,53,0,76.81,Hamilton
+18,24,15 Feb 2008,1,v New Zealand,9,0,37.50,Auckland
+19,88,20 Feb 2008,8,v New Zealand,69,0,78.40,Napier
+20,70,23 Feb 2008,4,v New Zealand,42,0,60.00,Christchurch
+21,38,28 Jun 2008,3,v New Zealand,24,0,63.15,Lord's
+22,15,26 Nov 2008,1,v India,11,0,73.33,Cuttack
+23,68,28 Feb 2010,6,v Bangladesh,64,0,94.11,Dhaka
+24,61,2 Mar 2010,7,v Bangladesh,60,1,98.36,Dhaka
+25,43,5 Mar 2010,3,v Bangladesh,32,0,74.41,Chittagong
+26,3,28 Jun 2011,1,v Sri Lanka,5,0,166.66,The Oval
+27,52,1 Jul 2011,5,v Sri Lanka,48,0,92.30,Leeds
+28,143,3 Jul 2011,13,v Sri Lanka,119,0,83.21,Lord's
+29,75,6 Jul 2011,16,v Sri Lanka,95,0,126.66,Nottingham
+30,35,9 Jul 2011,3,v Sri Lanka,31,0,88.57,Manchester
+31,10,3 Sep 2011,1,v India,4,0,40.00,Chester-le-Street
+32,63,6 Sep 2011,5,v India,80,1,126.98,Southampton
+33,34,9 Sep 2011,3,v India,23,0,67.64,The Oval
+34,18,11 Sep 2011,2,v India,12,0,66.66,Lord's
+35,54,16 Sep 2011,5,v India,50,0,92.59,Cardiff
+36,63,14 Oct 2011,7,v India,60,0,95.23,Hyderabad (Deccan)
+37,4,17 Oct 2011,0,v India,0,0,0.00,Delhi
+38,10,20 Oct 2011,0,v India,3,0,30.00,Mohali
+39,19,23 Oct 2011,2,v India,10,0,52.63,Mumbai
+40,61,25 Oct 2011,8,v India,60,0,98.36,Kolkata
+41,142,13 Feb 2012,14,v Pakistan,137,0,96.47,Abu Dhabi
+42,121,15 Feb 2012,10,v Pakistan,102,0,84.29,Abu Dhabi
+43,98,18 Feb 2012,9,v Pakistan,80,1,81.63,Dubai (DSC)
+44,2,21 Feb 2012,1,v Pakistan,4,0,200.00,Dubai (DSC)
+45,3,16 Jun 2012,0,v West Indies,0,0,0.00,Southampton
+46,120,19 Jun 2012,13,v West Indies,112,1,93.33,The Oval
+47,59,29 Jun 2012,5,v Australia,40,0,67.79,Lord's
+48,18,1 Jul 2012,3,v Australia,18,0,100.00,The Oval
+49,46,7 Jul 2012,5,v Australia,29,0,63.04,Chester-le-Street
+50,78,10 Jul 2012,4,v Australia,58,0,74.35,Manchester
+51,15,24 Aug 2012,1,v South Africa,10,0,66.66,Cardiff
+52,2,28 Aug 2012,0,v South Africa,0,0,0.00,Southampton
+53,47,31 Aug 2012,3,v South Africa,20,0,42.55,The Oval
+54,6,2 Sep 2012,0,v South Africa,2,0,33.33,Lord's
+55,72,5 Sep 2012,6,v South Africa,51,0,70.83,Nottingham
+56,83,11 Jan 2013,11,v India,75,1,90.36,Rajkot
+57,27,15 Jan 2013,3,v India,17,0,62.96,Kochi
+58,28,19 Jan 2013,3,v India,17,0,60.71,Ranchi
+59,106,23 Jan 2013,13,v India,76,0,71.69,Mohali
+60,40,27 Jan 2013,5,v India,22,0,55.00,Dharamsala
+61,13,17 Feb 2013,1,v New Zealand,4,0,30.76,Hamilton
+62,92,20 Feb 2013,7,v New Zealand,78,1,84.78,Napier
+63,67,23 Feb 2013,5,v New Zealand,46,0,68.65,Auckland
+64,45,31 May 2013,5,v New Zealand,30,0,66.66,Lord's
+65,31,2 Jun 2013,5,v New Zealand,34,0,109.67,Southampton
+66,9,5 Jun 2013,0,v New Zealand,0,0,0.00,Nottingham
+67,42,8 Jun 2013,3,v Australia,30,0,71.42,Birmingham
+68,85,13 Jun 2013,3,v Sri Lanka,59,0,69.41,The Oval
+69,47,16 Jun 2013,4,v New Zealand,64,2,136.17,Cardiff
+70,21,19 Jun 2013,0,v South Africa,6,0,28.57,The Oval
+71,9,23 Jun 2013,0,v India,2,0,22.22,Birmingham
+72,4,12 Jan 2014,1,v Australia,4,0,100.00,Melbourne
+73,30,17 Jan 2014,2,v Australia,22,0,73.33,Brisbane
+74,36,19 Jan 2014,5,v Australia,35,1,97.22,Sydney
+75,43,24 Jan 2014,8,v Australia,44,0,102.32,Perth
+76,62,26 Jan 2014,3,v Australia,39,0,62.90,Adelaide
+77,47,9 May 2014,4,v Scotland,44,0,93.61,Aberdeen
+78,23,22 May 2014,1,v Sri Lanka,11,0,47.82,The Oval
+79,40,28 May 2014,2,v Sri Lanka,30,0,75.00,Manchester
+80,6,31 May 2014,0,v Sri Lanka,1,0,16.66,Lord's
+81,85,3 Jun 2014,3,v Sri Lanka,56,0,65.88,Birmingham
+82,33,27 Aug 2014,2,v India,19,0,57.57,Cardiff
+83,65,30 Aug 2014,4,v India,44,0,67.69,Nottingham
+84,19,2 Sep 2014,2,v India,9,0,47.36,Birmingham
+85,64,5 Sep 2014,6,v India,46,0,71.87,Leeds
+86,17,26 Nov 2014,0,v Sri Lanka,10,0,58.82,Colombo (RPS)
+87,37,29 Nov 2014,3,v Sri Lanka,22,0,59.45,Colombo (RPS)
+88,42,3 Dec 2014,5,v Sri Lanka,34,0,80.95,Hambantota
+89,30,10 Dec 2014,3,v Sri Lanka,20,0,66.66,Pallekele
+90,2,13 Dec 2014,0,v Sri Lanka,1,0,50.00,Pallekele
+91,49,16 Dec 2014,3,v Sri Lanka,32,1,65.30,Colombo (RPS)

@@ -1,0 +1,146 @@
+version,1
+info,team,Kings XI Punjab
+info,team,Royal Challengers Bangalore
+info,gender,male
+info,season,2015
+info,date,2015/05/13
+info,competition,Indian Premier League
+info,match_number,50
+info,venue,"Punjab Cricket Association Stadium, Mohali"
+info,city,Chandigarh
+info,toss_winner,Royal Challengers Bangalore
+info,toss_decision,field
+info,player_of_match,AR Patel
+info,umpire,JD Cloete
+info,umpire,C Shamshuddin
+info,reserve_umpire,PG Pathak
+info,tv_umpire,CK Nandan
+info,match_referee,J Srinath
+info,winner,Kings XI Punjab
+info,winner_runs,22
+ball,1,0.1,Kings XI Punjab,WP Saha,M Vohra,MA Starc,2,0,"",""
+ball,1,0.2,Kings XI Punjab,WP Saha,M Vohra,MA Starc,0,1,"",""
+ball,1,0.3,Kings XI Punjab,WP Saha,M Vohra,MA Starc,1,0,"",""
+ball,1,0.4,Kings XI Punjab,M Vohra,WP Saha,MA Starc,1,0,"",""
+ball,1,0.5,Kings XI Punjab,WP Saha,M Vohra,MA Starc,4,0,"",""
+ball,1,0.6,Kings XI Punjab,WP Saha,M Vohra,MA Starc,4,0,"",""
+ball,1,0.7,Kings XI Punjab,WP Saha,M Vohra,MA Starc,1,0,"",""
+ball,1,1.1,Kings XI Punjab,WP Saha,M Vohra,S Aravind,4,0,"",""
+ball,1,1.2,Kings XI Punjab,WP Saha,M Vohra,S Aravind,4,0,"",""
+ball,1,1.3,Kings XI Punjab,WP Saha,M Vohra,S Aravind,0,0,"",""
+ball,1,1.4,Kings XI Punjab,WP Saha,M Vohra,S Aravind,6,0,"",""
+ball,1,1.5,Kings XI Punjab,WP Saha,M Vohra,S Aravind,4,0,"",""
+ball,1,1.6,Kings XI Punjab,WP Saha,M Vohra,S Aravind,0,1,"",""
+ball,1,1.7,Kings XI Punjab,WP Saha,M Vohra,S Aravind,1,0,"",""
+ball,1,2.1,Kings XI Punjab,WP Saha,M Vohra,D Wiese,0,0,caught,WP Saha
+ball,1,2.2,Kings XI Punjab,M Vohra,GJ Maxwell,D Wiese,0,0,"",""
+ball,1,2.3,Kings XI Punjab,M Vohra,GJ Maxwell,D Wiese,3,0,"",""
+ball,1,2.4,Kings XI Punjab,GJ Maxwell,M Vohra,D Wiese,0,0,"",""
+ball,1,2.5,Kings XI Punjab,GJ Maxwell,M Vohra,D Wiese,0,0,"",""
+ball,1,2.6,Kings XI Punjab,GJ Maxwell,M Vohra,D Wiese,1,0,"",""
+ball,1,3.1,Kings XI Punjab,GJ Maxwell,M Vohra,S Aravind,0,0,"",""
+ball,1,3.2,Kings XI Punjab,GJ Maxwell,M Vohra,S Aravind,1,0,"",""
+ball,1,3.3,Kings XI Punjab,M Vohra,GJ Maxwell,S Aravind,6,0,"",""
+ball,1,3.4,Kings XI Punjab,M Vohra,GJ Maxwell,S Aravind,1,0,"",""
+ball,1,3.5,Kings XI Punjab,GJ Maxwell,M Vohra,S Aravind,2,0,"",""
+ball,1,3.6,Kings XI Punjab,GJ Maxwell,M Vohra,S Aravind,1,0,"",""
+ball,1,4.1,Kings XI Punjab,GJ Maxwell,M Vohra,HV Patel,1,0,"",""
+ball,1,4.2,Kings XI Punjab,M Vohra,GJ Maxwell,HV Patel,0,0,caught,M Vohra
+ball,1,4.3,Kings XI Punjab,GJ Maxwell,DA Miller,HV Patel,4,0,"",""
+ball,1,4.4,Kings XI Punjab,GJ Maxwell,DA Miller,HV Patel,0,0,caught,GJ Maxwell
+ball,1,4.5,Kings XI Punjab,GJ Bailey,DA Miller,HV Patel,1,0,"",""
+ball,1,4.6,Kings XI Punjab,DA Miller,GJ Bailey,HV Patel,1,0,"",""
+ball,1,5.1,Kings XI Punjab,DA Miller,GJ Bailey,YS Chahal,6,0,"",""
+ball,1,5.2,Kings XI Punjab,DA Miller,GJ Bailey,YS Chahal,6,0,"",""
+ball,1,5.3,Kings XI Punjab,DA Miller,GJ Bailey,YS Chahal,1,0,"",""
+ball,1,5.4,Kings XI Punjab,GJ Bailey,DA Miller,YS Chahal,1,0,"",""
+ball,1,5.5,Kings XI Punjab,DA Miller,GJ Bailey,YS Chahal,0,1,stumped,DA Miller
+ball,1,5.6,Kings XI Punjab,AR Patel,GJ Bailey,YS Chahal,0,0,"",""
+ball,1,5.7,Kings XI Punjab,AR Patel,GJ Bailey,YS Chahal,1,0,"",""
+ball,1,6.1,Kings XI Punjab,AR Patel,GJ Bailey,D Wiese,4,0,"",""
+ball,1,6.2,Kings XI Punjab,AR Patel,GJ Bailey,D Wiese,1,0,"",""
+ball,1,6.3,Kings XI Punjab,GJ Bailey,AR Patel,D Wiese,1,0,"",""
+ball,1,6.4,Kings XI Punjab,AR Patel,GJ Bailey,D Wiese,1,0,"",""
+ball,1,6.5,Kings XI Punjab,GJ Bailey,AR Patel,D Wiese,4,0,"",""
+ball,1,6.6,Kings XI Punjab,GJ Bailey,AR Patel,D Wiese,2,0,"",""
+ball,1,7.1,Kings XI Punjab,AR Patel,GJ Bailey,HV Patel,0,0,"",""
+ball,1,7.2,Kings XI Punjab,AR Patel,GJ Bailey,HV Patel,1,0,"",""
+ball,1,7.3,Kings XI Punjab,GJ Bailey,AR Patel,HV Patel,1,0,"",""
+ball,1,7.4,Kings XI Punjab,AR Patel,GJ Bailey,HV Patel,0,0,"",""
+ball,1,7.5,Kings XI Punjab,AR Patel,GJ Bailey,HV Patel,1,0,"",""
+ball,1,7.6,Kings XI Punjab,GJ Bailey,AR Patel,HV Patel,2,0,"",""
+ball,1,8.1,Kings XI Punjab,AR Patel,GJ Bailey,YS Chahal,6,0,"",""
+ball,1,8.2,Kings XI Punjab,AR Patel,GJ Bailey,YS Chahal,0,1,"",""
+ball,1,8.3,Kings XI Punjab,GJ Bailey,AR Patel,YS Chahal,1,0,"",""
+ball,1,8.4,Kings XI Punjab,AR Patel,GJ Bailey,YS Chahal,1,0,"",""
+ball,1,8.5,Kings XI Punjab,GJ Bailey,AR Patel,YS Chahal,0,0,bowled,GJ Bailey
+ball,1,8.6,Kings XI Punjab,Gurkeerat Singh,AR Patel,YS Chahal,1,0,"",""
+ball,1,9.1,Kings XI Punjab,Gurkeerat Singh,AR Patel,MA Starc,1,0,"",""
+ball,1,9.2,Kings XI Punjab,AR Patel,Gurkeerat Singh,MA Starc,1,0,"",""
+ball,1,9.3,Kings XI Punjab,Gurkeerat Singh,AR Patel,MA Starc,0,0,caught,Gurkeerat Singh
+ball,1,9.4,Kings XI Punjab,R Dhawan,AR Patel,MA Starc,1,0,"",""
+ball,1,9.5,Kings XI Punjab,AR Patel,R Dhawan,MA Starc,2,0,"",""
+ball,1,9.6,Kings XI Punjab,AR Patel,R Dhawan,MA Starc,1,0,"",""
+ball,2,0.1,Royal Challengers Bangalore,CH Gayle,V Kohli,Sandeep Sharma,0,0,"",""
+ball,2,0.2,Royal Challengers Bangalore,CH Gayle,V Kohli,Sandeep Sharma,0,0,"",""
+ball,2,0.3,Royal Challengers Bangalore,CH Gayle,V Kohli,Sandeep Sharma,6,0,"",""
+ball,2,0.4,Royal Challengers Bangalore,CH Gayle,V Kohli,Sandeep Sharma,0,0,"",""
+ball,2,0.5,Royal Challengers Bangalore,CH Gayle,V Kohli,Sandeep Sharma,4,0,"",""
+ball,2,0.6,Royal Challengers Bangalore,CH Gayle,V Kohli,Sandeep Sharma,0,0,"",""
+ball,2,1.1,Royal Challengers Bangalore,V Kohli,CH Gayle,BE Hendricks,0,0,"",""
+ball,2,1.2,Royal Challengers Bangalore,V Kohli,CH Gayle,BE Hendricks,0,0,"",""
+ball,2,1.3,Royal Challengers Bangalore,V Kohli,CH Gayle,BE Hendricks,1,0,"",""
+ball,2,1.4,Royal Challengers Bangalore,CH Gayle,V Kohli,BE Hendricks,2,0,"",""
+ball,2,1.5,Royal Challengers Bangalore,CH Gayle,V Kohli,BE Hendricks,1,0,"",""
+ball,2,1.6,Royal Challengers Bangalore,V Kohli,CH Gayle,BE Hendricks,2,0,"",""
+ball,2,2.1,Royal Challengers Bangalore,CH Gayle,V Kohli,Anureet Singh,0,1,"",""
+ball,2,2.2,Royal Challengers Bangalore,V Kohli,CH Gayle,Anureet Singh,4,0,"",""
+ball,2,2.3,Royal Challengers Bangalore,V Kohli,CH Gayle,Anureet Singh,2,0,"",""
+ball,2,2.4,Royal Challengers Bangalore,V Kohli,CH Gayle,Anureet Singh,6,0,"",""
+ball,2,2.5,Royal Challengers Bangalore,V Kohli,CH Gayle,Anureet Singh,4,0,"",""
+ball,2,2.6,Royal Challengers Bangalore,V Kohli,CH Gayle,Anureet Singh,0,0,bowled,V Kohli
+ball,2,3.1,Royal Challengers Bangalore,CH Gayle,AB de Villiers,R Dhawan,1,0,"",""
+ball,2,3.2,Royal Challengers Bangalore,AB de Villiers,CH Gayle,R Dhawan,1,0,"",""
+ball,2,3.3,Royal Challengers Bangalore,CH Gayle,AB de Villiers,R Dhawan,1,0,"",""
+ball,2,3.4,Royal Challengers Bangalore,AB de Villiers,CH Gayle,R Dhawan,1,0,"",""
+ball,2,3.5,Royal Challengers Bangalore,CH Gayle,AB de Villiers,R Dhawan,1,0,"",""
+ball,2,3.6,Royal Challengers Bangalore,AB de Villiers,CH Gayle,R Dhawan,1,0,"",""
+ball,2,4.1,Royal Challengers Bangalore,AB de Villiers,CH Gayle,Sandeep Sharma,0,1,"",""
+ball,2,4.2,Royal Challengers Bangalore,AB de Villiers,CH Gayle,Sandeep Sharma,1,0,"",""
+ball,2,4.3,Royal Challengers Bangalore,CH Gayle,AB de Villiers,Sandeep Sharma,1,0,"",""
+ball,2,4.4,Royal Challengers Bangalore,AB de Villiers,CH Gayle,Sandeep Sharma,1,0,"",""
+ball,2,4.5,Royal Challengers Bangalore,CH Gayle,AB de Villiers,Sandeep Sharma,0,1,"",""
+ball,2,4.6,Royal Challengers Bangalore,CH Gayle,AB de Villiers,Sandeep Sharma,0,0,caught,CH Gayle
+ball,2,4.7,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,Sandeep Sharma,4,0,"",""
+ball,2,4.8,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,Sandeep Sharma,1,0,"",""
+ball,2,5.1,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,R Dhawan,1,0,"",""
+ball,2,5.2,Royal Challengers Bangalore,AB de Villiers,Mandeep Singh,R Dhawan,4,0,"",""
+ball,2,5.3,Royal Challengers Bangalore,AB de Villiers,Mandeep Singh,R Dhawan,1,0,"",""
+ball,2,5.4,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,R Dhawan,2,0,"",""
+ball,2,5.5,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,R Dhawan,2,0,"",""
+ball,2,5.6,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,R Dhawan,2,0,"",""
+ball,2,6.1,Royal Challengers Bangalore,AB de Villiers,Mandeep Singh,AR Patel,0,1,"",""
+ball,2,6.2,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,AR Patel,4,0,"",""
+ball,2,6.3,Royal Challengers Bangalore,Mandeep Singh,AB de Villiers,AR Patel,0,1,"",""
+ball,2,6.4,Royal Challengers Bangalore,AB de Villiers,Mandeep Singh,AR Patel,0,0,caught,AB de Villiers
+ball,2,6.5,Royal Challengers Bangalore,KD Karthik,Mandeep Singh,AR Patel,1,0,"",""
+ball,2,6.6,Royal Challengers Bangalore,Mandeep Singh,KD Karthik,AR Patel,1,0,"",""
+ball,2,7.1,Royal Challengers Bangalore,Mandeep Singh,KD Karthik,BE Hendricks,1,0,"",""
+ball,2,7.2,Royal Challengers Bangalore,KD Karthik,Mandeep Singh,BE Hendricks,0,2,"",""
+ball,2,7.3,Royal Challengers Bangalore,KD Karthik,Mandeep Singh,BE Hendricks,1,0,"",""
+ball,2,7.4,Royal Challengers Bangalore,Mandeep Singh,KD Karthik,BE Hendricks,1,0,"",""
+ball,2,7.5,Royal Challengers Bangalore,KD Karthik,Mandeep Singh,BE Hendricks,0,0,caught,KD Karthik
+ball,2,7.6,Royal Challengers Bangalore,Mandeep Singh,SN Khan,BE Hendricks,0,0,"",""
+ball,2,8.1,Royal Challengers Bangalore,SN Khan,Mandeep Singh,AR Patel,1,0,"",""
+ball,2,8.2,Royal Challengers Bangalore,Mandeep Singh,SN Khan,AR Patel,1,0,"",""
+ball,2,8.3,Royal Challengers Bangalore,SN Khan,Mandeep Singh,AR Patel,1,0,"",""
+ball,2,8.4,Royal Challengers Bangalore,Mandeep Singh,SN Khan,AR Patel,0,0,caught,Mandeep Singh
+ball,2,8.5,Royal Challengers Bangalore,SN Khan,D Wiese,AR Patel,1,0,"",""
+ball,2,8.6,Royal Challengers Bangalore,D Wiese,SN Khan,AR Patel,1,0,"",""
+ball,2,9.1,Royal Challengers Bangalore,D Wiese,SN Khan,Anureet Singh,1,1,"",""
+ball,2,9.2,Royal Challengers Bangalore,SN Khan,D Wiese,Anureet Singh,0,0,"",""
+ball,2,9.3,Royal Challengers Bangalore,SN Khan,D Wiese,Anureet Singh,1,0,"",""
+ball,2,9.4,Royal Challengers Bangalore,D Wiese,SN Khan,Anureet Singh,0,0,"",""
+ball,2,9.5,Royal Challengers Bangalore,D Wiese,SN Khan,Anureet Singh,1,0,"",""
+ball,2,9.6,Royal Challengers Bangalore,SN Khan,D Wiese,Anureet Singh,0,0,caught,SN Khan
+ball,2,9.7,Royal Challengers Bangalore,D Wiese,HV Patel,Anureet Singh,1,0,"",""
