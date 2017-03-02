@@ -1,0 +1,95 @@
+,team_name,player_name,ipl_team,base_price,buy_price
+0,Eng !,Kevin Pietersen,Rising Pune Supergiants,200,300
+1,WI !,Dwayne Smith,Gujarat Lions,50,230
+2,Ind !,Ishant Sharma,Rising Pune Supergiants,200,380
+3,Australia !,Shane Watson,Royal Challengers Bangalore,200,950
+4,Ind !,Ashish Nehra,Sunrisers Hyderabad,200,550
+5,Ind !,Yuvraj Singh,Sunrisers Hyderabad,200,700
+6,South Africa !,Dale Steyn,Gujarat Lions,150,230
+7,Ind !,Sanju Samson,Delhi Daredevils,200,420
+8,Eng !,Jos Buttler,Mumbai Indians,150,380
+9,Ind !,Dinesh Karthik,Gujarat Lions,200,230
+10,Ind !,Irfan Pathan,Rising Pune Supergiants,100,100
+11,South Africa !,Chris Morris,Delhi Daredevils,50,700
+12,NZ !,Colin Munro,Kolkata Knight Riders,30,30
+13,Ind !,Stuart Binny,Royal Challengers Bangalore,200,200
+14,Australia !,Mitchell Marsh,Rising Pune Supergiants,200,480
+15,Ind !,Dhawal Kulkarni,Gujarat Lions,200,230
+16,Australia !,John Hastings,Kolkata Knight Riders,100,130
+17,Ind !,Praveen Kumar,Gujarat Lions,50,350
+18,NZ !,Tim Southee,Mumbai Indians,100,250
+19,Ind !,Mohit Sharma,Kings XI Punjab,150,650
+20,WI !,Carlos Brathwaite,Delhi Daredevils,30,420
+21,Australia !,Marcus Stoinis,Kings XI Punjab,30,55
+22,BAN !,Mustafizur Rahman,Sunrisers Hyderabad,50,140
+23,Ind !,Jaydev Unadkat,Kolkata Knight Riders,30,160
+24,South Africa !,Kyle Abbott,Kings XI Punjab,30,210
+25,Ind !,Barinder Sran,Sunrisers Hyderabad,50,120
+26,Ind !,Abhimanyu Mithun,Sunrisers Hyderabad,30,30
+27,Ind !,R. P. Singh,Rising Pune Supergiants,30,30
+28,Australia !,Travis Head,Royal Challengers Bangalore,30,50
+29,Ind !,Sachin Baby,Royal Challengers Bangalore,10,10
+30,Ind !,Karun Nair,Delhi Daredevils,10,400
+31,Ind !,Paras Dogra,Gujarat Lions,10,400
+32,Ind !,Ishan Kishan,Gujarat Lions,10,35
+33,Ind !,Rishabh Pant,Delhi Daredevils,10,190
+34,Ind !,Eklavya Dwivedi,Gujarat Lions,20,100
+35,Ind !,Aditya Tare,Sunrisers Hyderabad,20,120
+36,Ind !,Iqbal Abdulla,Royal Challengers Bangalore,10,10
+37,Ind !,Deepak Hooda,Sunrisers Hyderabad,10,420
+38,Ind !,Ankit Sharma,Rising Pune Supergiants,10,10
+39,Ind !,Pawan Negi,Delhi Daredevils,30,850
+40,Ind !,Rajat Bhatia,Rising Pune Supergiants,30,60
+41,Ind !,Pradeep Sangwan,Gujarat Lions,20,20
+42,Ind !,Nathu Singh,Mumbai Indians,10,320
+43,Ind !,Ishwar Pandey,Rising Pune Supergiants,20,20
+44,Ind !,Ankit Rajpoot,Kolkata Knight Riders,10,150
+45,Ind !,Pravin Tambe,Gujarat Lions,10,20
+46,Ind !,Shivil Kaushik,Gujarat Lions,10,10
+47,Ind !,Sarabjit Ladda,Gujarat Lions,10,10
+48,Ind !,Murugan Ashwin,Rising Pune Supergiants,10,450
+49,Ind !,KC Cariappa,Kings XI Punjab,10,80
+50,Australia !,Aaron Finch,Gujarat Lions,100,100
+51,Eng !,Sam Billings,Delhi Daredevils,30,30
+52,Ind !,Tirumalasetti Suman,Sunrisers Hyderabad,10,10
+53,Ind !,Ankush Bains,Rising Pune Supergiants,10,10
+54,Ind !,Umang Sharma,Gujarat Lions,10,10
+55,Australia !,Peter Handscomb,Rising Pune Supergiants,30,30
+56,Ind !,Jitesh Sharma,Mumbai Indians,10,10
+57,Ind !,Armaan Jaffer,Kings XI Punjab,10,10
+58,WI !,Jason Holder,Kolkata Knight Riders,50,70
+59,Sri Lanka !,Thisara Perera,Rising Pune Supergiants,100,100
+60,Australia !,Ben Cutting,Sunrisers Hyderabad,50,50
+61,Australia !,Andrew Tye,Gujarat Lions,30,50
+62,Ind !,Praveen Dubey,Royal Challengers Bangalore,10,35
+63,Ind !,Rajagopal Sathish,Kolkata Knight Riders,20,20
+64,Ind !,Vijay Shankar,Sunrisers Hyderabad,10,35
+65,Ind !,Shadab Jakati,Gujarat Lions,20,20
+66,Ind !,Akshay Karnewar,Royal Challengers Bangalore,10,10
+67,Ind !,Akshdeep Nath,Gujarat Lions,10,10
+68,Ind !,Manan Sharma,Kolkata Knight Riders,10,10
+69,Ind !,Baba Aparajith,Rising Pune Supergiants,10,10
+70,Ind !,Deepak Chahar,Rising Pune Supergiants,10,10
+71,Ind !,Kishore Kamath,Mumbai Indians,10,140
+72,Ind !,Pardeep Sahu,Kings XI Punjab,10,10
+73,Ind !,Krunal Pandya,Mumbai Indians,10,200
+74,Ind !,Deepak Punia,Mumbai Indians,10,10
+75,Ind !,Swapnil Singh,Kings XI Punjab,10,10
+76,Ind !,Khaleel Ahmed,Delhi Daredevils,10,10
+77,Ind !,Jaydev Shah,Gujarat Lions,20,20
+78,Ind !,Pratyush Singh,Delhi Daredevils,10,10
+79,Ind !,Ashok Dinda,Rising Pune Supergiants,50,50
+80,Australia !,Kane Richardson,Royal Challengers Bangalore,200,200
+81,WI !,Samuel Badree,Royal Challengers Bangalore,50,50
+82,Australia !,Joel Paris,Delhi Daredevils,30,30
+83,Australia !,Scott Boland,Rising Pune Supergiants,50,50
+84,Ind !,Vikramjeet Malik,Royal Challengers Bangalore,20,20
+85,Ind !,Pawan Suyal,Delhi Daredevils,10,10
+86,Australia !,Adam Zampa,Rising Pune Supergiants,30,30
+87,Ind !,Amit Mishra,Gujarat Lions,10,10
+88,Ind !,Jaskaran Singh,Rising Pune Supergiants,10,10
+89,Ind !,Chama Milind,Delhi Daredevils,10,10
+90,Ind !,Vikas Tokas,Royal Challengers Bangalore,10,10
+91,South Africa !,Farhaan Behardien,Kings XI Punjab,30,30
+92,Ind !,Akhil Herwadkar,Delhi Daredevils,10,10
+93,Ind !,Mahipal Lomror,Delhi Daredevils,10,10

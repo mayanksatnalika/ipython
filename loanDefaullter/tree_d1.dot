@@ -1,0 +1,8 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="Credit_History <= 0.5\nimpurity = 0.8963\nsamples = 614\nvalue = [192, 422]"] ;
+1 [label="impurity = 0.9006\nsamples = 139\nvalue = [95, 44]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="impurity = 0.7303\nsamples = 475\nvalue = [97, 378]"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

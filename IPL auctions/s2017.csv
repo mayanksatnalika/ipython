@@ -1,0 +1,387 @@
+List    Sr. No.,fname,sname,Specialism,Reserve Price Rs Lakh
+1,Faiz,Fazal,Batsman,30
+2,Martin,Guptill,Batsman,50
+3,Alex,Hales,Batsman,100
+4,Eoin,Morgan,Batsman,200
+5,Jason,Roy,Batsman,100
+6,Ross,Taylor,Batsman,50
+7,Saurabh,Tiwary,Batsman,30
+8,Sean,Abbott,All-rounder,30
+9,Corey,Anderson,All-rounder,100
+10,Chris,Jordan,All-rounder,50
+11,Angelo,Mathews,All-rounder,200
+12,Pawan,Negi,All-rounder,30
+13,Irfan,Pathan,All-rounder,50
+14,Benjamin,Stokes,All-rounder,200
+15,Jonny,Bairstow,Wk/Batsman,150
+16,Dinesh,Chandimal,Wk/Batsman,50
+17,Johnson,Charles,Wk/Batsman,30
+18,Ben,Dunk,Wk/Batsman,30
+19,Andre,Fletcher,Wk/Batsman,30
+20,Nicholas,Pooran,Wk/Batsman,30
+21,Kyle,Abbott,Bowler,150
+22,Trent,Boult,Bowler,150
+23,Nathan,Coulter-Nile,Bowler,100
+24,Patrick,Cummins,Bowler,200
+25,Mitchell,Johnson,Bowler,200
+26,Tymal Solomon,Mills,Bowler,50
+27,Kagiso,Rabada,Bowler,100
+28,Ishant,Sharma,Bowler,200
+29,George Bradley,Hogg,Bowler,50
+30,Pragyan,Ojha,Bowler,30
+31,Lakshan,Sandakan,Bowler,30
+32,Inderbir Singh,Sodhi,Bowler,30
+33,Muhammad Imran,Tahir,Bowler,50
+34,Tanmay,Agarwal,Batsman,10
+35,Ankeet,Bawane,Batsman,10
+36,Unmukt,Chand,Batsman,30
+37,Michael,Klinger,Batsman,30
+38,Umang,Sharma,Batsman,10
+39,Prithvi,Shaw,Batsman,10
+40,Mohamad Asghar,Stanikzai,Batsman,20
+,,,,
+41,Shivam,Dube,All-rounder,10
+42,Praveen,Dubey,All-rounder,10
+43,Gowtham,K.,All-rounder,10
+44,Rush B,Kalaria,All-rounder,10
+45,Mahipal,Lomror,All-rounder,10
+46,Mohammad,Nabi,All-rounder,30
+47,Aksh Deep,Nath,All-rounder,10
+48,Priyank,Panchal,All-rounder,10
+49,Manan,Sharma,All-rounder,10
+50,Rahul,Tewatia,All-rounder,10
+,,,,
+51,Mohit,Ahlawat,Wk/Batsman,10
+52,Manvinder,Bisla,Wk/Batsman,10
+53,Eklavya,Dwivedi,Wk/Batsman,30
+54,Shreevats,Goswami,Wk/Batsman,10
+55,Mohammad Shahzad,Mohammadi,Wk/Batsman,50
+56,Aditya,Tare,Wk/Batsman,20
+57,Vishnu,Vinod,Wk/Batsman,10
+,,,,
+58,Abu Nechim,Ahmed,Bowler,10
+59,Aniket,Choudhary,Bowler,10
+60,T.,Natarajan,Bowler,10
+61,Umar,Nazir,Bowler,10
+62,Navdeep,Saini,Bowler,10
+63,Nathu,Singh,Bowler,30
+64,Pawan,Suyal,Bowler,10
+65,Basil,Thampy,Bowler,10
+,,,,
+66,Tejas Singh,Baroka,Bowler,10
+67,M.,Ashwin,Bowler,10
+68,Mayank,Dagar,Bowler,10
+69,Rashid,Khan Arman,Bowler,50
+70,Sarabjeet,Singh (Ladda),Bowler,10
+71,Mitchell,Swepson,Bowler,30
+72,Pravin,Tambe,Bowler,10
+73,Akshay,Wakhare,Bowler,10
+,,,,
+74,Subramaniam,Badrinath,Batsman,30
+75,Darren,Bravo,Batsman,50
+76,Evin,Lewis,Batsman,50
+77,Nic,Maddinson,Batsman,50
+78,Abhinav,Mukund,Batsman,30
+79,Cheteshwar,Pujara,Batsman,50
+80,Marlon,Samuels,Batsman,100
+81,Manoj,Tiwari,Batsman,50
+,,,,
+82,Farhaan,Behardien,All-rounder,30
+83,Rishi,Dhawan,All-rounder,30
+84,Jason,Holder,All-rounder,150
+85,Thisara,Perera,All-rounder,50
+86,Parveez,Rasool,All-rounder,30
+87,Karn,Sharma,All-rounder,30
+88,David,Wiese,All-rounder,30
+89,Chris,Woakes,All-rounder,200
+,,,,
+90,Anamul Haque,Bijoy,Wk/Batsman,30
+91,Niroshan,Dickwella,Wk/Batsman,30
+92,Shane,Dorwich,Wk/Batsman,30
+93,Brad,Haddin,Wk/Batsman,150
+94,Kusal,Janith Perera,Wk/Batsman,50
+,,,,
+95,Varun,Aaron,Bowler,30
+96,Manpreet,Gony,Bowler,30
+97,Matt,Henry,Bowler,50
+98,Ben,Laughlin,Bowler,30
+99,Pankaj,Singh,Bowler,30
+100,Rudra Pratap,Singh,Bowler,30
+101,Billy,Stanlake,Bowler,30
+102,Jaydev,Unadkat,Bowler,30
+,,,,
+103,Fawad,Ahmed,Bowler,30
+104,Michael,Beer,Bowler,30
+105,Akila,Dananjaya,Bowler,30
+106,Nathan,Lyon,Bowler,150
+107,Rahul,Sharma,Bowler,30
+,,,,
+108,Shishir,Bhavane,Batsman,10
+109,Rajesh,Bishnoi SR.,Batsman,10
+110,Pramod,Chandila,Batsman,10
+111,Paras,Dogra,Batsman,10
+112,Aditya,Garhwal,Batsman,10
+113,Amandeep,Khare,Batsman,10
+114,Samarth,R.,Batsman,10
+115,Himanshu,Rana,Batsman,10
+116,D'Arcy,Short,Batsman,10
+117,Apoorv Vijay,Wankhade,Batsman,10
+,,,,
+118,Akash,Bhandari,All-rounder,10
+119,Rujul Haren,Bhatt,All-rounder,10
+120,Jay Gokul,Bista,All-rounder,10
+121,Aamir,Gani,All-rounder,10
+122,Akhil Arvind,Herwadkar,All-rounder,10
+123,Pankaj,Jaswal,All-rounder,10
+124,Kishore Pramod,Kamath,All-rounder,10
+125,Ashok,Menaria,All-rounder,10
+126,A. Ashish,Reddy,All-rounder,10
+127,Rajagopal,Sathish,All-rounder,20
+,,,,
+128,Gautam,C.M.,Wk/Batsman,10
+129,K. B. Arun,Karthik,Wk/Batsman,10
+130,Gitansh,Khera,Wk/Batsman,10
+131,Mahesh,Rawat,Wk/Batsman,10
+132,Nitin,Saini,Wk/Batsman,20
+133,Dishant,Yagnik,Wk/Batsman,20
+,,,,
+134,Rishi,Arothe,Bowler,10
+135,Ronsford,Beaton,Bowler,20
+136,Ben,Dwarshuis,Bowler,30
+137,Sayan,Ghosh,Bowler,10
+138,Kanishk,Seth,Bowler,10
+139,Mohammed,Siraj,Bowler,20
+140,Vikas,Tokas,Bowler,10
+141,Sandeep,Warrier,Bowler,10
+142,Dawlat,Zadran,Bowler,30
+,,,,
+143,Bhargav Ashokbhai,Bhatt,Bowler,10
+144,Rajesh,Bishnoi JR.,Bowler,10
+145,Rahul,Chahar,Bowler,10
+146,Syed Mehdi,Hasan,Bowler,10
+147,Varun,Khanna,Bowler,10
+148,Saurabh,Kumar,Bowler,10
+149,Rajwinder,Singh,Bowler,10
+,,,,
+150,Neil,Broom,Batsman,30
+151,Tom,Bruce,Batsman,30
+152,Joe,Burns,Batsman,30
+153,Theunis,De Bruyn,Batsman,30
+154,Callum,Ferguson,Batsman,50
+155,Asela,Gunarathna,Batsman,30
+156,Sam,Heazlett,Batsman,30
+157,Tamim,Iqbal Khan,Batsman,30
+158,Kusal,Mendis,Batsman,30
+,,,,
+159,Johan,Botha,All-rounder,30
+160,Daniel,Christian,All-rounder,100
+161,Grant,Elliott,All-rounder,100
+162,Colin,Munro,All-rounder,50
+163,Abhishek,Nayar,All-rounder,30
+164,James,Neesham,All-rounder,50
+165,Wayne,Parnell,All-rounder,50
+166,Rovman,Powell,All-rounder,30
+167,Darren,Sammy,All-rounder,30
+168,Mitchell,Santner,All-rounder,50
+,,,,
+169,Parvinder,Awana,Bowler,30
+170,Lockie,Ferguson,Bowler,50
+171,Shannon,Gabriel,Bowler,30
+172,Ben,Hilfenhaus,Bowler,30
+173,Lahiru,Kumara,Bowler,30
+174,Suranga,Lakmal,Bowler,50
+175,Lungisani,Ngidi,Bowler,30
+176,Munaf,Patel,Bowler,30
+,,,,
+177,Harpreet Singh,Bhatia,Batsman,20
+178,Prashant,Chopra,Batsman,10
+179,Kumar,Deobrat,Batsman,10
+180,Pavan,Deshpande,Batsman,10
+181,Arjit,Gupta,Batsman,10
+182,Manprit,Juneja,Batsman,20
+183,Pratyush,Kumar,Batsman,10
+184,Rinku,Singh,Batsman,10
+185,Tanmay,Srivastava,Batsman,10
+186,Paul,Valthaty,Batsman,10
+,,,,
+187,Chirag,Jani,All-rounder,10
+188,Akshay,Karnewar,All-rounder,10
+189,Milind,Kumar,All-rounder,10
+190,Amit,Mishra,All-rounder,10
+191,Yogesh,Nagar,All-rounder,10
+192,Biplab,Samantray,All-rounder,10
+193,Jalaj,Saxena,All-rounder,20
+194,Shashank,Singh,All-rounder,10
+195,Karanveer,Singh,All-rounder,10
+196,Milind,Tandon,All-rounder,10
+,,,,
+197,Ian Dev Singh,Chauhan,Wk/Batsman,10
+198,N.,Jagadeesan,Wk/Batsman,10
+199,Ben,McDermott,Wk/Batsman,10
+200,Glenn,Phillips,Wk/Batsman,10
+201,Nakul,Sharma,Wk/Batsman,10
+202,Jaskaranvir Singh,Sohi,Wk/Batsman,10
+,,,,
+203,Akshay,Chauhan,Bowler,10
+204,Tushar,Deshpande,Bowler,10
+205,Asif,K.M,Bowler,10
+206,Kulwant,Khejroliya,Bowler,10
+207,Amit,Mishra,Bowler,10
+208,Ronit,More,Bowler,10
+209,Babashafi,Pathan,Bowler,10
+210,Rahul,Shukla,Bowler,10
+211,Veer Pratap,Singh,Bowler,10
+212,Tanveer,Ulhaq,Bowler,10
+213,K.,Vignesh,Bowler,10
+,,,,
+214,Yuvraj,Chudasama,Bowler,10
+215,Vijay,Gohil,Bowler,10
+216,Rahul,Kanojia,Bowler,10
+217,R. Sai,Kishore,Bowler,10
+218,Shakti,Malviya,Bowler,10
+219,Rahil S.,Shah,Bowler,10
+,,,,
+220,Muhammad Yasir,Arafat,All-rounder,50
+221,Anton,Devcich,All-rounder,30
+222,Rayad,Emrit,All-rounder,30
+223,Colin De,Grandhomme,All-rounder,30
+224,Jeevan,Mendis,All-rounder,30
+225,Andile,Phehlukwayo,All-rounder,100
+226,Seekkuge,Prasanna,All-rounder,30
+227,Dwaine,Pretorius,All-rounder,30
+228,Jesse,Ryder,All-rounder,30
+229,Joginder,Sharma,All-rounder,30
+,,,,
+230,Taskin,Ahmed,Bowler,30
+231,Dushmantha,Chameera,Bowler,30
+232,Sheldon,Cottrell,Bowler,30
+233,Miguel,Cummins,Bowler,30
+234,Krishmar,Santokie,Bowler,30
+235,Jerome,Taylor,Bowler,50
+236,Ben,Wheeler,Bowler,30
+237,Kesrick,Williams,Bowler,30
+,,,,
+238,Ankit,Lamba,Batsman,10
+239,Amit,Pachhara,Batsman,10
+240,Sarthak,Ranjan,Batsman,10
+241,Alex,Ross,Batsman,30
+242,Jonty,Sidhu,Batsman,10
+243,Tajendra,Singh,Batsman,10
+244,Virat,Singh,Batsman,10
+245,Chirag,Suri,Batsman,10
+246,Rassie,van der Dussen,Batsman,10
+247,Shamsher,Yadav,Batsman,10
+,,,,
+248,Fabid Farook,Ahmed,All-rounder,10
+249,Subodh,Bhati,All-rounder,10
+250,Shivam,Chauhan,All-rounder,10
+251,Ritwik,Chowdhury,All-rounder,10
+252,Tom,Cooper,All-rounder,30
+253,Puneet,Datey,All-rounder,10
+254,Jamaluddin Syed,Mohammad,All-rounder,10
+255,Sumit,Narwal,All-rounder,10
+256,Shivam,Sharma,All-rounder,10
+257,Gade Hanuma,Vihari,All-rounder,10
+,,,,
+258,Ajay,Ahlawat,Bowler,10
+259,Manjeet Kumar,Chaudhary,Bowler,10
+260,Ishwar,Chaudhary,Bowler,10
+261,Stephen,Cheepurapalli,Bowler,10
+262,A. Aswin,Crist,Bowler,10
+263,Deepak,Dalal,Bowler,10
+264,Pritam,Das,Bowler,10
+265,Nikit,Dhumal,Bowler,10
+266,M. Ravi,Kiran,Bowler,10
+267,Prasidh,Krishna,Bowler,10
+268,Siddarth,Trivedi,Bowler,10
+269,Paidakalva,Vijay Kumar,Bowler,10
+,,,,
+270,Jonathan,Carter,All-rounder,30
+271,Dhananjaya,De Silva,All-rounder,30
+272,Thikshila,De Silva,All-rounder,30
+273,Farveez,Maharoof,All-rounder,50
+274,Nathan,McCullum,All-rounder,30
+275,Mehedi Hasan,Miraz,All-rounder,30
+276,Angelo,Perera,All-rounder,30
+277,Shabbir,Rahman Roman,All-rounder,30
+278,Dasun,Shanka,All-rounder,30
+279,Mahmud,Ullah,All-rounder,30
+,,,,
+280,Kuldeep,Hooda,All-rounder,10
+281,B.,Indrajith,All-rounder,10
+282,Dharmendrasinh,Jadeja,All-rounder,10
+283,Anirudha Ashok,Joshi,All-rounder,10
+284,Manisankar,Murasingh,All-rounder,10
+285,Shubham,Ranjane,All-rounder,10
+286,Raymon,Reifer,All-rounder,20
+287,Atit,Sheth,All-rounder,10
+288,Amitoze,Singh,All-rounder,10
+289,Vishnu,Solanki,All-rounder,10
+,,,,
+290,Shubham,Mavi,Bowler,10
+291,M.,Mohammed,Bowler,10
+292,Ponam,Ponia,Bowler,10
+293,Ananta,Saha,Bowler,10
+294,Chandrakant,Sakure,Bowler,10
+295,Anupam Amrut,Sanklecha,Bowler,10
+296,Shelley,Shaurya,Bowler,10
+297,Vikash,Singh,Bowler,10
+298,Baltej,Singh,Bowler,10
+299,Nishan,Singh,Bowler,10
+300,Pradeep,T.,Bowler,10
+,,,,
+301,Shubam,Agrawal,All-rounder,10
+302,Khalid,Ahmad,All-rounder,10
+303,Dafedar Khizar,Anwar,All-rounder,10
+304,M. D Sarfaraz,Ashraf,All-rounder,10
+305,Jaskarandeep Singh,Buttar,All-rounder,10
+306,Vinod Kumar,C.V.,All-rounder,10
+307,Shamar,Springer,All-rounder,20
+308,M. S. Washington,Sundar,All-rounder,10
+309,Amit,Verma,All-rounder,10
+310,Jack,Wildermuth,All-rounder,30
+,,,,
+311,Hiten,Dalal,All-rounder,10
+312,Antony,Dhas,All-rounder,10
+313,Saurabh,Dubey,All-rounder,10
+314,Robbie,Frylinck,All-rounder,30
+315,Vinay,Galetiya,All-rounder,10
+316,M. Kaushik,Gandhi,All-rounder,10
+317,Nikhil,Gangta,All-rounder,10
+318,Arindam,Ghosh,All-rounder,10
+319,Vijay Rajendra,Jethi,All-rounder,10
+320,Christiaan,Jonker,All-rounder,10
+,,,,
+321,Karan,Kaila,All-rounder,10
+322,Ankit,Kaushik,All-rounder,10
+323,Parth,Kohli,All-rounder,10
+324,Dasari Swaroop,Kumar,All-rounder,10
+325,Vishal,Kushwah,All-rounder,10
+326,Prerak,Mankad,All-rounder,10
+327,Ramesh,Mendis,All-rounder,30
+328,Sanjay,Pahal,All-rounder,10
+329,Kavish,Panchal,All-rounder,10
+330,Diwesh,Pathania,All-rounder,10
+,,,,
+331,Rohan,Prem,All-rounder,10
+332,P Malinda,Pushpakumara,All-rounder,30
+333,Sumit,Ruikar,All-rounder,10
+334,Shaurya,Sanandia,All-rounder,10
+335,Hardik,Sethi,All-rounder,10
+336,Azhar,Shaikh,All-rounder,10
+337,Dhruv,Shorey,All-rounder,10
+338,Chandra Pal,Singh,All-rounder,10
+339,Kaushal,Singh,All-rounder,10
+340,Himmat,Singh,All-rounder,10
+,,,,
+341,Nick,Buchanan,All-rounder,10
+342,Writtick,Chatterjee,All-rounder,10
+343,Chris,Green,All-rounder,20
+344,Rituraj,Singh,All-rounder,10
+345,Ankit,Soni,All-rounder,10
+346,Varun,Sood,All-rounder,10
+347,Ashton,Turner,All-rounder,20
+348,Vysak,V.,All-rounder,10
+349,Parikshit,Valsangkar,All-rounder,10
+350,Suraj,Yadav,All-rounder,10
+351,R. Sanjay,Yadav,All-rounder,10
